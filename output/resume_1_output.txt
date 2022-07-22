@@ -1,0 +1,340 @@
+adhiksha thorat  student of computer engineering  address: mumbai, india  phone: 8850492990  email: asthorat@mitaoe.ac.in  linkedin: linkedin.com/in/adhiksha-thorat  github: github.com/adhiksha  enthusiastic and hard-working individual with hands-on experience in software development and various frameworks.  ever ending drive to learn and grow as an individual and as a professional. talented in grasping new technologies .  familiar with various development languages like django (python) and php and deployment platforms like gcp and aws.  optimized structures and processes to accomplish customer targets.  education  bachelor of technology: computer engineering                                                  2017 – 2021  mit academy of engineering, pune  internships  software developer intern  just get it, mumbai   2020-06 – 2020-08  ,  worked on e-commerce website and mainly focused on creating a modular and distributed system. developed  a resume parser using machine learning and hard-coding it to achieve nearly 75% accuracy.  ,  recognized the need for an intuitive product upload form and hence developed it using javascript, ajax and  backend in django/python. solved all the errors and rectified it according to client’s needs.  ,  designed and deployed databases keeping in mind all the best practices and abiding all normal forms and  deployed it on aws compute engine working in linux operating system.  full stack developer intern  analytics domain, pune  2019-05 – 2019-08  ,  worked on online essay grading website using machine learning with django framework. focused on  creating a prediction model using nlp and neutral networks.  ,  connected the python backend to php framework using rest apis. deployed the python backend to  gcp compute engine and created database on cloud sql.  ,  coordinated with the client’s developers to evaluate and improve software and hardware interfaces.  skills  software development, cpp, python, java, r, js, html, css, php, sql, pig latin, data science, hadoop,  machine learning, talend, tableau, version control tools, linux, nodejs, reactjs, django, java web,  webrtc, socket programming, aws, google cloud, agile development, sdlc, dbms, os, networks.  projects  -  video conferencing application with gaming using webrtc  -  data de-duplication in btrfs in linux kernel   -  clustering, classification and regression case study in r programming  -  case study of healthcare using hadoop (pig, hive)
+
+ ***** NLTK ***** 
+
+ --- sentences ----
+
+ ['adhiksha thorat  student of computer engineering  address: mumbai, india  phone: 8850492990  email: asthorat@mitaoe.ac.in  linkedin: linkedin.com/in/adhiksha-thorat  github: github.com/adhiksha  enthusiastic and hard-working individual with hands-on experience in software development and various frameworks.', 'ever ending drive to learn and grow as an individual and as a professional.', 'talented in grasping new technologies .', 'familiar with various development languages like django (python) and php and deployment platforms like gcp and aws.', 'optimized structures and processes to accomplish customer targets.', 'education  bachelor of technology: computer engineering                                                  2017 – 2021  mit academy of engineering, pune  internships  software developer intern  just get it, mumbai   2020-06 – 2020-08  ,  worked on e-commerce website and mainly focused on creating a modular and distributed system.', 'developed  a resume parser using machine learning and hard-coding it to achieve nearly 75% accuracy.', ',  recognized the need for an intuitive product upload form and hence developed it using javascript, ajax and  backend in django/python.', 'solved all the errors and rectified it according to client’s needs.', ',  designed and deployed databases keeping in mind all the best practices and abiding all normal forms and  deployed it on aws compute engine working in linux operating system.', 'full stack developer intern  analytics domain, pune  2019-05 – 2019-08  ,  worked on online essay grading website using machine learning with django framework.', 'focused on  creating a prediction model using nlp and neutral networks.', ',  connected the python backend to php framework using rest apis.', 'deployed the python backend to  gcp compute engine and created database on cloud sql.', ',  coordinated with the client’s developers to evaluate and improve software and hardware interfaces.', 'skills  software development, cpp, python, java, r, js, html, css, php, sql, pig latin, data science, hadoop,  machine learning, talend, tableau, version control tools, linux, nodejs, reactjs, django, java web,  webrtc, socket programming, aws, google cloud, agile development, sdlc, dbms, os, networks.', 'projects  -  video conferencing application with gaming using webrtc  -  data de-duplication in btrfs in linux kernel   -  clustering, classification and regression case study in r programming  -  case study of healthcare using hadoop (pig, hive)']
+
+ total sentences --> 17
+
+ --- Sentence Display --- 
+
+
+
+ sent --> adhiksha thorat  student of computer engineering  address: mumbai, india  phone: 8850492990  email: asthorat@mitaoe.ac.in  linkedin: linkedin.com/in/adhiksha-thorat  github: github.com/adhiksha  enthusiastic and hard-working individual with hands-on experience in software development and various frameworks.
+
+ filtered sentence [stopwords] --> adhiksha thorat student computer engineering address: mumbai, india phone: 8850492990 email: asthorat@mitaoe.ac.in linkedin: linkedin.com/in/adhiksha-thorat github: github.com/adhiksha enthusiastic hard-working individual hands-on experience software development various frameworks.
+
+ Tokens --> ['adhiksha', 'thorat', 'student', 'computer', 'engineering', 'address', ':', 'mumbai', ',', 'india', 'phone', ':', '8850492990', 'email', ':', 'asthorat', '@', 'mitaoe.ac.in', 'linkedin', ':', 'linkedin.com/in/adhiksha-thorat', 'github', ':', 'github.com/adhiksha', 'enthusiastic', 'hard-working', 'individual', 'hands-on', 'experience', 'software', 'development', 'various', 'frameworks', '.']
+
+ Total Tokens --> 34
+
+ Filtered Tokens [New Stop Words] --> adhiksha thorat student computer engineering address : mumbai , india phone : 8850492990 email : asthorat @ mitaoe.ac.in linkedin : linkedin.com/in/adhiksha-thorat github : github.com/adhiksha enthusiastic hard-working individual hands-on experience software development various frameworks .
+
+ Filtered Tokens [punctuations] --> adhiksha thorat student computer engineering address mumbai india phone 8850492990 email asthorat mitaoe.ac.in linkedin linkedin.com/in/adhiksha-thorat github github.com/adhiksha enthusiastic hard-working individual hands-on experience software development various frameworks
+
+ ------------------------------------------------------------
+
+ sent --> ever ending drive to learn and grow as an individual and as a professional.
+
+ filtered sentence [stopwords] --> ever ending drive learn grow individual professional.
+
+ Tokens --> ['ever', 'ending', 'drive', 'learn', 'grow', 'individual', 'professional', '.']
+
+ Total Tokens --> 8
+
+ Filtered Tokens [New Stop Words] --> ever ending drive learn grow individual professional .
+
+ Filtered Tokens [punctuations] --> ever ending drive learn grow individual professional
+
+ ------------------------------------------------------------
+
+ sent --> talented in grasping new technologies .
+
+ filtered sentence [stopwords] --> talented grasping new technologies .
+
+ Tokens --> ['talented', 'grasping', 'new', 'technologies', '.']
+
+ Total Tokens --> 5
+
+ Filtered Tokens [New Stop Words] --> talented grasping new technologies .
+
+ Filtered Tokens [punctuations] --> talented grasping new technologies
+
+ ------------------------------------------------------------
+
+ sent --> familiar with various development languages like django (python) and php and deployment platforms like gcp and aws.
+
+ filtered sentence [stopwords] --> familiar various development languages like django (python) php deployment platforms like gcp aws.
+
+ Tokens --> ['familiar', 'various', 'development', 'languages', 'like', 'django', '(', 'python', ')', 'php', 'deployment', 'platforms', 'like', 'gcp', 'aws', '.']
+
+ Total Tokens --> 16
+
+ Filtered Tokens [New Stop Words] --> familiar various development languages like django ( python ) php deployment platforms like gcp aws .
+
+ Filtered Tokens [punctuations] --> familiar various development languages like django python php deployment platforms like gcp aws
+
+ ------------------------------------------------------------
+
+ sent --> optimized structures and processes to accomplish customer targets.
+
+ filtered sentence [stopwords] --> optimized structures processes accomplish customer targets.
+
+ Tokens --> ['optimized', 'structures', 'processes', 'accomplish', 'customer', 'targets', '.']
+
+ Total Tokens --> 7
+
+ Filtered Tokens [New Stop Words] --> optimized structures processes accomplish customer targets .
+
+ Filtered Tokens [punctuations] --> optimized structures processes accomplish customer targets
+
+ ------------------------------------------------------------
+
+ sent --> education  bachelor of technology: computer engineering                                                  2017 – 2021  mit academy of engineering, pune  internships  software developer intern  just get it, mumbai   2020-06 – 2020-08  ,  worked on e-commerce website and mainly focused on creating a modular and distributed system.
+
+ filtered sentence [stopwords] --> education bachelor technology: computer engineering 2017 – 2021 mit academy engineering, pune internships software developer intern get it, mumbai 2020-06 – 2020-08 , worked e-commerce website mainly focused creating modular distributed system.
+
+ Tokens --> ['education', 'bachelor', 'technology', ':', 'computer', 'engineering', '2017', '–', '2021', 'mit', 'academy', 'engineering', ',', 'pune', 'internships', 'software', 'developer', 'intern', 'get', 'it', ',', 'mumbai', '2020-06', '–', '2020-08', ',', 'worked', 'e-commerce', 'website', 'mainly', 'focused', 'creating', 'modular', 'distributed', 'system', '.']
+
+ Total Tokens --> 36
+
+ Filtered Tokens [New Stop Words] --> education bachelor technology : computer engineering 2017 – 2021 mit academy engineering , pune internships software developer intern get it , mumbai 2020-06 – 2020-08 , worked e-commerce website mainly focused creating modular distributed system .
+
+ Filtered Tokens [punctuations] --> education bachelor technology computer engineering 2017 – 2021 mit academy engineering pune internships software developer intern get it mumbai 2020-06 – 2020-08 worked e-commerce website mainly focused creating modular distributed system
+
+ ------------------------------------------------------------
+
+ sent --> developed  a resume parser using machine learning and hard-coding it to achieve nearly 75% accuracy.
+
+ filtered sentence [stopwords] --> developed resume parser using machine learning hard-coding achieve nearly 75% accuracy.
+
+ Tokens --> ['developed', 'resume', 'parser', 'using', 'machine', 'learning', 'hard-coding', 'achieve', 'nearly', '75', '%', 'accuracy', '.']
+
+ Total Tokens --> 13
+
+ Filtered Tokens [New Stop Words] --> developed resume parser using machine learning hard-coding achieve nearly 75 % accuracy .
+
+ Filtered Tokens [punctuations] --> developed resume parser using machine learning hard-coding achieve nearly 75 accuracy
+
+ ------------------------------------------------------------
+
+ sent --> ,  recognized the need for an intuitive product upload form and hence developed it using javascript, ajax and  backend in django/python.
+
+ filtered sentence [stopwords] --> , recognized need intuitive product upload form hence developed using javascript, ajax backend django/python.
+
+ Tokens --> [',', 'recognized', 'need', 'intuitive', 'product', 'upload', 'form', 'hence', 'developed', 'using', 'javascript', ',', 'ajax', 'backend', 'django/python', '.']
+
+ Total Tokens --> 16
+
+ Filtered Tokens [New Stop Words] --> , recognized need intuitive product upload form hence developed using javascript , ajax backend django/python .
+
+ Filtered Tokens [punctuations] --> recognized need intuitive product upload form hence developed using javascript ajax backend django/python
+
+ ------------------------------------------------------------
+
+ sent --> solved all the errors and rectified it according to client’s needs.
+
+ filtered sentence [stopwords] --> solved errors rectified according client’s needs.
+
+ Tokens --> ['solved', 'errors', 'rectified', 'according', 'client', '’', 's', 'needs', '.']
+
+ Total Tokens --> 9
+
+ Filtered Tokens [New Stop Words] --> solved errors rectified according client ’ s needs .
+
+ Filtered Tokens [punctuations] --> solved errors rectified according client ’ s needs
+
+ ------------------------------------------------------------
+
+ sent --> ,  designed and deployed databases keeping in mind all the best practices and abiding all normal forms and  deployed it on aws compute engine working in linux operating system.
+
+ filtered sentence [stopwords] --> , designed deployed databases keeping mind best practices abiding normal forms deployed aws compute engine working linux operating system.
+
+ Tokens --> [',', 'designed', 'deployed', 'databases', 'keeping', 'mind', 'best', 'practices', 'abiding', 'normal', 'forms', 'deployed', 'aws', 'compute', 'engine', 'working', 'linux', 'operating', 'system', '.']
+
+ Total Tokens --> 20
+
+ Filtered Tokens [New Stop Words] --> , designed deployed databases keeping mind best practices abiding normal forms deployed aws compute engine working linux operating system .
+
+ Filtered Tokens [punctuations] --> designed deployed databases keeping mind best practices abiding normal forms deployed aws compute engine working linux operating system
+
+ ------------------------------------------------------------
+
+ sent --> full stack developer intern  analytics domain, pune  2019-05 – 2019-08  ,  worked on online essay grading website using machine learning with django framework.
+
+ filtered sentence [stopwords] --> full stack developer intern analytics domain, pune 2019-05 – 2019-08 , worked online essay grading website using machine learning django framework.
+
+ Tokens --> ['full', 'stack', 'developer', 'intern', 'analytics', 'domain', ',', 'pune', '2019-05', '–', '2019-08', ',', 'worked', 'online', 'essay', 'grading', 'website', 'using', 'machine', 'learning', 'django', 'framework', '.']
+
+ Total Tokens --> 23
+
+ Filtered Tokens [New Stop Words] --> full stack developer intern analytics domain , pune 2019-05 – 2019-08 , worked online essay grading website using machine learning django framework .
+
+ Filtered Tokens [punctuations] --> full stack developer intern analytics domain pune 2019-05 – 2019-08 worked online essay grading website using machine learning django framework
+
+ ------------------------------------------------------------
+
+ sent --> focused on  creating a prediction model using nlp and neutral networks.
+
+ filtered sentence [stopwords] --> focused creating prediction model using nlp neutral networks.
+
+ Tokens --> ['focused', 'creating', 'prediction', 'model', 'using', 'nlp', 'neutral', 'networks', '.']
+
+ Total Tokens --> 9
+
+ Filtered Tokens [New Stop Words] --> focused creating prediction model using nlp neutral networks .
+
+ Filtered Tokens [punctuations] --> focused creating prediction model using nlp neutral networks
+
+ ------------------------------------------------------------
+
+ sent --> ,  connected the python backend to php framework using rest apis.
+
+ filtered sentence [stopwords] --> , connected python backend php framework using rest apis.
+
+ Tokens --> [',', 'connected', 'python', 'backend', 'php', 'framework', 'using', 'rest', 'apis', '.']
+
+ Total Tokens --> 10
+
+ Filtered Tokens [New Stop Words] --> , connected python backend php framework using rest apis .
+
+ Filtered Tokens [punctuations] --> connected python backend php framework using rest apis
+
+ ------------------------------------------------------------
+
+ sent --> deployed the python backend to  gcp compute engine and created database on cloud sql.
+
+ filtered sentence [stopwords] --> deployed python backend gcp compute engine created database cloud sql.
+
+ Tokens --> ['deployed', 'python', 'backend', 'gcp', 'compute', 'engine', 'created', 'database', 'cloud', 'sql', '.']
+
+ Total Tokens --> 11
+
+ Filtered Tokens [New Stop Words] --> deployed python backend gcp compute engine created database cloud sql .
+
+ Filtered Tokens [punctuations] --> deployed python backend gcp compute engine created database cloud sql
+
+ ------------------------------------------------------------
+
+ sent --> ,  coordinated with the client’s developers to evaluate and improve software and hardware interfaces.
+
+ filtered sentence [stopwords] --> , coordinated client’s developers evaluate improve software hardware interfaces.
+
+ Tokens --> [',', 'coordinated', 'client', '’', 's', 'developers', 'evaluate', 'improve', 'software', 'hardware', 'interfaces', '.']
+
+ Total Tokens --> 12
+
+ Filtered Tokens [New Stop Words] --> , coordinated client ’ s developers evaluate improve software hardware interfaces .
+
+ Filtered Tokens [punctuations] --> coordinated client ’ s developers evaluate improve software hardware interfaces
+
+ ------------------------------------------------------------
+
+ sent --> skills  software development, cpp, python, java, r, js, html, css, php, sql, pig latin, data science, hadoop,  machine learning, talend, tableau, version control tools, linux, nodejs, reactjs, django, java web,  webrtc, socket programming, aws, google cloud, agile development, sdlc, dbms, os, networks.
+
+ filtered sentence [stopwords] --> skills software development, cpp, python, java, r, js, html, css, php, sql, pig latin, data science, hadoop, machine learning, talend, tableau, version control tools, linux, nodejs, reactjs, django, java web, webrtc, socket programming, aws, google cloud, agile development, sdlc, dbms, os, networks.
+
+ Tokens --> ['skills', 'software', 'development', ',', 'cpp', ',', 'python', ',', 'java', ',', 'r', ',', 'js', ',', 'html', ',', 'css', ',', 'php', ',', 'sql', ',', 'pig', 'latin', ',', 'data', 'science', ',', 'hadoop', ',', 'machine', 'learning', ',', 'talend', ',', 'tableau', ',', 'version', 'control', 'tools', ',', 'linux', ',', 'nodejs', ',', 'reactjs', ',', 'django', ',', 'java', 'web', ',', 'webrtc', ',', 'socket', 'programming', ',', 'aws', ',', 'google', 'cloud', ',', 'agile', 'development', ',', 'sdlc', ',', 'dbms', ',', 'os', ',', 'networks', '.']
+
+ Total Tokens --> 73
+
+ Filtered Tokens [New Stop Words] --> skills software development , cpp , python , java , r , js , html , css , php , sql , pig latin , data science , hadoop , machine learning , talend , tableau , version control tools , linux , nodejs , reactjs , django , java web , webrtc , socket programming , aws , google cloud , agile development , sdlc , dbms , os , networks .
+
+ Filtered Tokens [punctuations] --> skills software development cpp python java r js html css php sql pig latin data science hadoop machine learning talend tableau version control tools linux nodejs reactjs django java web webrtc socket programming aws google cloud agile development sdlc dbms os networks
+
+ ------------------------------------------------------------
+
+ sent --> projects  -  video conferencing application with gaming using webrtc  -  data de-duplication in btrfs in linux kernel   -  clustering, classification and regression case study in r programming  -  case study of healthcare using hadoop (pig, hive)
+
+ filtered sentence [stopwords] --> projects - video conferencing application gaming using webrtc - data de-duplication btrfs linux kernel - clustering, classification regression case study r programming - case study healthcare using hadoop (pig, hive)
+
+ Tokens --> ['projects', '-', 'video', 'conferencing', 'application', 'gaming', 'using', 'webrtc', '-', 'data', 'de-duplication', 'btrfs', 'linux', 'kernel', '-', 'clustering', ',', 'classification', 'regression', 'case', 'study', 'r', 'programming', '-', 'case', 'study', 'healthcare', 'using', 'hadoop', '(', 'pig', ',', 'hive', ')']
+
+ Total Tokens --> 34
+
+ Filtered Tokens [New Stop Words] --> projects - video conferencing application gaming using webrtc - data de-duplication btrfs linux kernel - clustering , classification regression case study r programming - case study healthcare using hadoop ( pig , hive )
+
+ Filtered Tokens [punctuations] --> projects video conferencing application gaming using webrtc data de-duplication btrfs linux kernel clustering classification regression case study r programming case study healthcare using hadoop pig hive
+
+ ------------------------------------------------------------
+
+ ***** SPACY ***** 
+
+ --- doc --- 
+ adhiksha thorat  student of computer engineering  address: mumbai, india  phone: 8850492990  email: asthorat@mitaoe.ac.in  linkedin: linkedin.com/in/adhiksha-thorat  github: github.com/adhiksha  enthusiastic and hard-working individual with hands-on experience in software development and various frameworks.  ever ending drive to learn and grow as an individual and as a professional. talented in grasping new technologies .  familiar with various development languages like django (python) and php and deployment platforms like gcp and aws.  optimized structures and processes to accomplish customer targets.  education  bachelor of technology: computer engineering                                                  2017 – 2021  mit academy of engineering, pune  internships  software developer intern  just get it, mumbai   2020-06 – 2020-08  ,  worked on e-commerce website and mainly focused on creating a modular and distributed system. developed  a resume parser using machine learning and hard-coding it to achieve nearly 75% accuracy.  ,  recognized the need for an intuitive product upload form and hence developed it using javascript, ajax and  backend in django/python. solved all the errors and rectified it according to client’s needs.  ,  designed and deployed databases keeping in mind all the best practices and abiding all normal forms and  deployed it on aws compute engine working in linux operating system.  full stack developer intern  analytics domain, pune  2019-05 – 2019-08  ,  worked on online essay grading website using machine learning with django framework. focused on  creating a prediction model using nlp and neutral networks.  ,  connected the python backend to php framework using rest apis. deployed the python backend to  gcp compute engine and created database on cloud sql.  ,  coordinated with the client’s developers to evaluate and improve software and hardware interfaces.  skills  software development, cpp, python, java, r, js, html, css, php, sql, pig latin, data science, hadoop,  machine learning, talend, tableau, version control tools, linux, nodejs, reactjs, django, java web,  webrtc, socket programming, aws, google cloud, agile development, sdlc, dbms, os, networks.  projects  -  video conferencing application with gaming using webrtc  -  data de-duplication in btrfs in linux kernel   -  clustering, classification and regression case study in r programming  -  case study of healthcare using hadoop (pig, hive)
+
+ ------ Spacy Sentences ------ 
+
+ 
+
+ sent --> adhiksha thorat  student of computer engineering  address: mumbai, india  phone: 8850492990  email: asthorat@mitaoe.ac.in  linkedin: linkedin.com/in/adhiksha-thorat  github: github.com/adhiksha  enthusiastic and hard-working individual with hands-on experience in software development and various frameworks.
+
+ sentence entities --> [mumbai, phone]
+
+ mumbai -> LOCATION
+
+ sentence entities --> [mumbai, phone]
+
+ phone -> TECH_SKILLS
+
+ sent -->  ever ending drive to learn and grow as an individual and as a professional.
+
+ sent --> talented in grasping new technologies .
+
+ sent -->  familiar with various development languages like django (python) and php and deployment platforms like gcp and aws.
+
+ sentence entities --> [django]
+
+ django -> TECH_SKILLS
+
+ sent -->  optimized structures and processes to accomplish customer targets.
+
+ sent -->  education  bachelor of technology: computer engineering                                                  2017 – 2021  mit academy of engineering, pune  internships  software developer intern  just get it, mumbai   2020-06 – 2020-08  ,  worked on e-commerce website and mainly focused on creating a modular and distributed system.
+
+ sentence entities --> [pune, mumbai]
+
+ pune -> TECH_SKILLS
+
+ sentence entities --> [pune, mumbai]
+
+ mumbai -> LOCATION
+
+ sent --> developed  a resume parser using machine learning and hard-coding it to achieve nearly 75% accuracy.
+
+ sentence entities --> [developed]
+
+ developed -> TECH_SKILLS
+
+ sent -->  ,  recognized the need for an intuitive product upload form and hence developed it using javascript, ajax and  backend in django/python.
+
+ sentence entities --> [django, python]
+
+ django -> TECH_SKILLS
+
+ sentence entities --> [django, python]
+
+ python -> ['ORGANIZATION', 'PERSON_NAME', 'TECH_SKILLS', 'JOB_ROLE', 'COLLEGE', 'EDUCATION', 'LOCATION', 'DOMAIN', 'OPERATING_SYSTEM', 'DEV_METHODOLOGY']
+
+ sent --> solved all the errors and rectified it according to client’s needs.
+
+ sent -->  ,  designed and deployed databases keeping in mind all the best practices and abiding all normal forms and  deployed it on aws compute engine working in linux operating system.
+
+ sentence entities --> [mind]
+
+ mind -> TECH_SKILLS
+
+ sent -->  full stack developer intern  analytics domain, pune  2019-05 – 2019-08  ,  worked on online essay grading website using machine learning with django framework.
+
+ sent --> focused on  creating a prediction model using nlp and neutral networks.
+
+ sent -->  ,  connected the python backend to php framework using rest apis.
+
+ sent --> deployed the python backend to  gcp compute engine and created database on cloud sql.
+
+ sentence entities --> [deployed]
+
+ deployed -> TECH_SKILLS
+
+ sent -->  ,  coordinated with the client’s developers to evaluate and improve software and hardware interfaces.
+
+ sent -->  skills  software development, cpp, python, java, r, js, html, css, php, sql, pig latin, data science, hadoop,  machine learning, talend, tableau, version control tools, linux, nodejs, reactjs, django, java web,  webrtc, socket programming, aws, google cloud, agile development, sdlc, dbms, os, networks.
+
+ sentence entities --> [django]
+
+ django -> TECH_SKILLS
+
+ sent -->  projects  -  video conferencing application with gaming using webrtc  -  data de-duplication in btrfs in linux kernel   -  clustering, classification and regression case study in r programming  -  case study of healthcare using hadoop (pig, hive)
+
+ filtered sentence --> [adhiksha, thorat, student, computer, engineering, address, mumbai, india, phone, 8850492990, email, asthorat@mitaoe.ac.in, linkedin, linkedin.com/in/adhiksha-thorat, github, github.com/adhiksha, enthusiastic, hard, working, individual, hands, experience, software, development, frameworks, ending, drive, learn, grow, individual, professional, talented, grasping, new, technologies, familiar, development, languages, like, django, python, php, deployment, platforms, like, gcp, aws, optimized, structures, processes, accomplish, customer, targets, education, bachelor, technology, computer, engineering, 2017, –, 2021, mit, academy, engineering, pune, internships, software, developer, intern, mumbai, 2020, 06, –, 2020, 08, worked, e, commerce, website, mainly, focused, creating, modular, distributed, system, developed, resume, parser, machine, learning, hard, coding, achieve, nearly, 75, accuracy, recognized, need, intuitive, product, upload, form, developed, javascript, ajax, backend, django, python, solved, errors, rectified, according, client, needs, designed, deployed, databases, keeping, mind, best, practices, abiding, normal, forms, deployed, aws, compute, engine, working, linux, operating, system, stack, developer, intern, analytics, domain, pune, 2019, 05, –, 2019, 08, worked, online, essay, grading, website, machine, learning, django, framework, focused, creating, prediction, model, nlp, neutral, networks, connected, python, backend, php, framework, rest, apis, deployed, python, backend, gcp, compute, engine, created, database, cloud, sql, coordinated, client, developers, evaluate, improve, software, hardware, interfaces, skills, software, development, cpp, python, java, r, js, html, css, php, sql, pig, latin, data, science, hadoop, machine, learning, talend, tableau, version, control, tools, linux, nodejs, reactjs, django, java, web, webrtc, socket, programming, aws, google, cloud, agile, development, sdlc, dbms, os, networks, projects, video, conferencing, application, gaming, webrtc, data, de, duplication, btrfs, linux, kernel, clustering, classification, regression, case, study, r, programming, case, study, healthcare, hadoop, pig, hive]

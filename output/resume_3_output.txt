@@ -1,0 +1,1170 @@
+ram kumar  g/14, sunset heights  53 juhu tara road  mumbai -40049  maharashtra  shri.babuji@shriresume.com  shri.babuji@shriresume.com  linkedin.com/in/shribabuji  about me  marketing and sales professional  lorem ipsum dolor sit amet, consectetur adipiscing elit. integer nec odio. praesent libero. sed cursus ante dapi-bus  diam. sed nisi. nulla quis sem at nibh elementum imperdiet. duis sagittis ipsum. praesent mauris. fusce nec tellus  sed augue semper porta. mauris massa. vestibulum lacinia arcu eget nulla. class aptent taciti sociosqu ad litora  torquent per conubia nostra, per inceptos himenaeos.  education  masters, business administration  symbiosis institute of management studies  aicte & ugc board  pune, maharashtra  bachelor, technology  deccan college of engineering & technology  osmania university board  hyderabad, telangana  10+2  dps bokaro  cbse board  new delhi, delhi  graduated, july 2010  marks 59%  division 2  graduated, july 2008  marks 64%  division 1  graduated, july 2004  marks 81%  division 1  professional qualifications and affiliations  ,  ,  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  career highlights  lorem ipsum dolor sit amet, consectetuer adipiscing elit. aenean commodo ligula eget dolor. aenean massa. cum  sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. donec quam felis, ultricies lorem  ipsum dolor sit amet, consectetuer adipiscing elit. aenean commodo ligula eget dolor. aenean massa. cum sociis  natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.                                                                                ,,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  ,  nulla quis sem  ,  lorem ipsum  ,  integer nec odio  skills  ,  ,  lorem ipsum  ipsum dolor  work experience  april 2014 – current  sales manager  solvent solutions pvt ltd  kolkata, west bangal  lorem ipsum dolor sit amet, consectetuer adipiscing elit. aenean commodo ligula eget dolor. aenean massa. cum  sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. donec quam felis, ultricies lorem  ipsum dolor sit amet, consectetuer adipiscing elit. aenean commodo ligula eget dolor. aenean massa. cum sociis  natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.  ,  ,  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  october 2011 – march 2014  team leader  serena global pvt ltd  gurgaon, delhi-ncr  lorem ipsum dolor sit amet, consectetuer adipiscing elit. aenean commodo ligula eget dolor. aenean massa. cum  sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. donec quam felis, ultricies lorem  ipsum dolor sit amet, consectetuer adipiscing elit. aenean commodo ligula eget dolor. aenean massa. cum sociis  natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.  ,  ,  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  august 2009 – october 2011  sales assistant  tamcoj technologies  pimpri-pune, maharashtra  lorem ipsum dolor sit amet, consectetuer adipiscing elit. aenean commodo ligula eget dolor. aenean massa. cum  sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. donec quam felis, ultricies lorem  ipsum dolor sit amet, consectetuer adipiscing elit. aenean commodo ligula eget dolor. aenean massa. cum sociis  natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.  ,  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.                ,,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  computer proficiency  ,  word 2010    ,  excel 2010  ,  power point 2010  languages  ,  hindi  ,  english  personal interests  ,  ,  ,  lorem ipsum dolor sit amet  lorem ipsum dolor  lorem ipsum dolor sit  personal details  ,  ,  lorem ipsum dolor sit  lorem ipsum  father’s name:  mr. abhijeet kumar    birthday:  gender:  october 28, 1982  male  marital status:  single  indian  nationality:  declaration  i, ram kumar, hereby declare that the information contained herein is true and correct to the best of my knowledge  and belief.  ____________________________  ram kumar  mumbai, maharashtra  march 1, 2015
+
+ ***** NLTK ***** 
+
+ --- sentences ----
+
+ ['ram kumar  g/14, sunset heights  53 juhu tara road  mumbai -40049  maharashtra  shri.babuji@shriresume.com  shri.babuji@shriresume.com  linkedin.com/in/shribabuji  about me  marketing and sales professional  lorem ipsum dolor sit amet, consectetur adipiscing elit.', 'integer nec odio.', 'praesent libero.', 'sed cursus ante dapi-bus  diam.', 'sed nisi.', 'nulla quis sem at nibh elementum imperdiet.', 'duis sagittis ipsum.', 'praesent mauris.', 'fusce nec tellus  sed augue semper porta.', 'mauris massa.', 'vestibulum lacinia arcu eget nulla.', 'class aptent taciti sociosqu ad litora  torquent per conubia nostra, per inceptos himenaeos.', 'education  masters, business administration  symbiosis institute of management studies  aicte & ugc board  pune, maharashtra  bachelor, technology  deccan college of engineering & technology  osmania university board  hyderabad, telangana  10+2  dps bokaro  cbse board  new delhi, delhi  graduated, july 2010  marks 59%  division 2  graduated, july 2008  marks 64%  division 1  graduated, july 2004  marks 81%  division 1  professional qualifications and affiliations  ,  ,  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.', 'lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.', 'lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.', 'lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.', 'career highlights  lorem ipsum dolor sit amet, consectetuer adipiscing elit.', 'aenean commodo ligula eget dolor.', 'aenean massa.', 'cum  sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.', 'donec quam felis, ultricies lorem  ipsum dolor sit amet, consectetuer adipiscing elit.', 'aenean commodo ligula eget dolor.', 'aenean massa.', 'cum sociis  natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.', ',  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.', 'lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.', ',,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.', 'lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.', ',  nulla quis sem  ,  lorem ipsum  ,  integer nec odio  skills  ,  ,  lorem ipsum  ipsum dolor  work experience  april 2014 – current  sales manager  solvent solutions pvt ltd  kolkata, west bangal  lorem ipsum dolor sit amet, consectetuer adipiscing elit.', 'aenean commodo ligula eget dolor.', 'aenean massa.', 'cum  sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.', 'donec quam felis, ultricies lorem  ipsum dolor sit amet, consectetuer adipiscing elit.', 'aenean commodo ligula eget dolor.', 'aenean massa.', 'cum sociis  natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.', ',  ,  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.', 'lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.', 'lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.', 'lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.', 'october 2011 – march 2014  team leader  serena global pvt ltd  gurgaon, delhi-ncr  lorem ipsum dolor sit amet, consectetuer adipiscing elit.', 'aenean commodo ligula eget dolor.', 'aenean massa.', 'cum  sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.', 'donec quam felis, ultricies lorem  ipsum dolor sit amet, consectetuer adipiscing elit.', 'aenean commodo ligula eget dolor.', 'aenean massa.', 'cum sociis  natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.', ',  ,  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.', 'lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.', 'lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.', 'lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.', 'august 2009 – october 2011  sales assistant  tamcoj technologies  pimpri-pune, maharashtra  lorem ipsum dolor sit amet, consectetuer adipiscing elit.', 'aenean commodo ligula eget dolor.', 'aenean massa.', 'cum  sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.', 'donec quam felis, ultricies lorem  ipsum dolor sit amet, consectetuer adipiscing elit.', 'aenean commodo ligula eget dolor.', 'aenean massa.', 'cum sociis  natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.', ',  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.', 'lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.', 'lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.', ',,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.', 'computer proficiency  ,  word 2010    ,  excel 2010  ,  power point 2010  languages  ,  hindi  ,  english  personal interests  ,  ,  ,  lorem ipsum dolor sit amet  lorem ipsum dolor  lorem ipsum dolor sit  personal details  ,  ,  lorem ipsum dolor sit  lorem ipsum  father’s name:  mr. abhijeet kumar    birthday:  gender:  october 28, 1982  male  marital status:  single  indian  nationality:  declaration  i, ram kumar, hereby declare that the information contained herein is true and correct to the best of my knowledge  and belief.', '____________________________  ram kumar  mumbai, maharashtra  march 1, 2015']
+
+ total sentences --> 66
+
+ --- Sentence Display --- 
+
+
+
+ sent --> ram kumar  g/14, sunset heights  53 juhu tara road  mumbai -40049  maharashtra  shri.babuji@shriresume.com  shri.babuji@shriresume.com  linkedin.com/in/shribabuji  about me  marketing and sales professional  lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+ filtered sentence [stopwords] --> ram kumar g/14, sunset heights 53 juhu tara road mumbai -40049 maharashtra shri.babuji@shriresume.com shri.babuji@shriresume.com linkedin.com/in/shribabuji marketing sales professional lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+ Tokens --> ['ram', 'kumar', 'g/14', ',', 'sunset', 'heights', '53', 'juhu', 'tara', 'road', 'mumbai', '-40049', 'maharashtra', 'shri.babuji', '@', 'shriresume.com', 'shri.babuji', '@', 'shriresume.com', 'linkedin.com/in/shribabuji', 'marketing', 'sales', 'professional', 'lorem', 'ipsum', 'dolor', 'sit', 'amet', ',', 'consectetur', 'adipiscing', 'elit', '.']
+
+ Total Tokens --> 33
+
+ Filtered Tokens [New Stop Words] --> ram kumar g/14 , sunset heights 53 juhu tara road mumbai -40049 maharashtra shri.babuji @ shriresume.com shri.babuji @ shriresume.com linkedin.com/in/shribabuji marketing sales professional lorem ipsum dolor sit amet , consectetur adipiscing elit .
+
+ Filtered Tokens [punctuations] --> ram kumar g/14 sunset heights 53 juhu tara road mumbai -40049 maharashtra shri.babuji shriresume.com shri.babuji shriresume.com linkedin.com/in/shribabuji marketing sales professional lorem ipsum dolor sit amet consectetur adipiscing elit
+
+ ------------------------------------------------------------
+
+ sent --> integer nec odio.
+
+ filtered sentence [stopwords] --> integer nec odio.
+
+ Tokens --> ['integer', 'nec', 'odio', '.']
+
+ Total Tokens --> 4
+
+ Filtered Tokens [New Stop Words] --> integer nec odio .
+
+ Filtered Tokens [punctuations] --> integer nec odio
+
+ ------------------------------------------------------------
+
+ sent --> praesent libero.
+
+ filtered sentence [stopwords] --> praesent libero.
+
+ Tokens --> ['praesent', 'libero', '.']
+
+ Total Tokens --> 3
+
+ Filtered Tokens [New Stop Words] --> praesent libero .
+
+ Filtered Tokens [punctuations] --> praesent libero
+
+ ------------------------------------------------------------
+
+ sent --> sed cursus ante dapi-bus  diam.
+
+ filtered sentence [stopwords] --> sed cursus ante dapi-bus diam.
+
+ Tokens --> ['sed', 'cursus', 'ante', 'dapi-bus', 'diam', '.']
+
+ Total Tokens --> 6
+
+ Filtered Tokens [New Stop Words] --> sed cursus ante dapi-bus diam .
+
+ Filtered Tokens [punctuations] --> sed cursus ante dapi-bus diam
+
+ ------------------------------------------------------------
+
+ sent --> sed nisi.
+
+ filtered sentence [stopwords] --> sed nisi.
+
+ Tokens --> ['sed', 'nisi', '.']
+
+ Total Tokens --> 3
+
+ Filtered Tokens [New Stop Words] --> sed nisi .
+
+ Filtered Tokens [punctuations] --> sed nisi
+
+ ------------------------------------------------------------
+
+ sent --> nulla quis sem at nibh elementum imperdiet.
+
+ filtered sentence [stopwords] --> nulla quis sem nibh elementum imperdiet.
+
+ Tokens --> ['nulla', 'quis', 'sem', 'nibh', 'elementum', 'imperdiet', '.']
+
+ Total Tokens --> 7
+
+ Filtered Tokens [New Stop Words] --> nulla quis sem nibh elementum imperdiet .
+
+ Filtered Tokens [punctuations] --> nulla quis sem nibh elementum imperdiet
+
+ ------------------------------------------------------------
+
+ sent --> duis sagittis ipsum.
+
+ filtered sentence [stopwords] --> duis sagittis ipsum.
+
+ Tokens --> ['duis', 'sagittis', 'ipsum', '.']
+
+ Total Tokens --> 4
+
+ Filtered Tokens [New Stop Words] --> duis sagittis ipsum .
+
+ Filtered Tokens [punctuations] --> duis sagittis ipsum
+
+ ------------------------------------------------------------
+
+ sent --> praesent mauris.
+
+ filtered sentence [stopwords] --> praesent mauris.
+
+ Tokens --> ['praesent', 'mauris', '.']
+
+ Total Tokens --> 3
+
+ Filtered Tokens [New Stop Words] --> praesent mauris .
+
+ Filtered Tokens [punctuations] --> praesent mauris
+
+ ------------------------------------------------------------
+
+ sent --> fusce nec tellus  sed augue semper porta.
+
+ filtered sentence [stopwords] --> fusce nec tellus sed augue semper porta.
+
+ Tokens --> ['fusce', 'nec', 'tellus', 'sed', 'augue', 'semper', 'porta', '.']
+
+ Total Tokens --> 8
+
+ Filtered Tokens [New Stop Words] --> fusce nec tellus sed augue semper porta .
+
+ Filtered Tokens [punctuations] --> fusce nec tellus sed augue semper porta
+
+ ------------------------------------------------------------
+
+ sent --> mauris massa.
+
+ filtered sentence [stopwords] --> mauris massa.
+
+ Tokens --> ['mauris', 'massa', '.']
+
+ Total Tokens --> 3
+
+ Filtered Tokens [New Stop Words] --> mauris massa .
+
+ Filtered Tokens [punctuations] --> mauris massa
+
+ ------------------------------------------------------------
+
+ sent --> vestibulum lacinia arcu eget nulla.
+
+ filtered sentence [stopwords] --> vestibulum lacinia arcu eget nulla.
+
+ Tokens --> ['vestibulum', 'lacinia', 'arcu', 'eget', 'nulla', '.']
+
+ Total Tokens --> 6
+
+ Filtered Tokens [New Stop Words] --> vestibulum lacinia arcu eget nulla .
+
+ Filtered Tokens [punctuations] --> vestibulum lacinia arcu eget nulla
+
+ ------------------------------------------------------------
+
+ sent --> class aptent taciti sociosqu ad litora  torquent per conubia nostra, per inceptos himenaeos.
+
+ filtered sentence [stopwords] --> class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+
+ Tokens --> ['class', 'aptent', 'taciti', 'sociosqu', 'ad', 'litora', 'torquent', 'per', 'conubia', 'nostra', ',', 'per', 'inceptos', 'himenaeos', '.']
+
+ Total Tokens --> 15
+
+ Filtered Tokens [New Stop Words] --> class aptent taciti sociosqu ad litora torquent per conubia nostra , per inceptos himenaeos .
+
+ Filtered Tokens [punctuations] --> class aptent taciti sociosqu ad litora torquent per conubia nostra per inceptos himenaeos
+
+ ------------------------------------------------------------
+
+ sent --> education  masters, business administration  symbiosis institute of management studies  aicte & ugc board  pune, maharashtra  bachelor, technology  deccan college of engineering & technology  osmania university board  hyderabad, telangana  10+2  dps bokaro  cbse board  new delhi, delhi  graduated, july 2010  marks 59%  division 2  graduated, july 2008  marks 64%  division 1  graduated, july 2004  marks 81%  division 1  professional qualifications and affiliations  ,  ,  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ filtered sentence [stopwords] --> education masters, business administration symbiosis institute management studies aicte & ugc board pune, maharashtra bachelor, technology deccan college engineering & technology osmania university board hyderabad, telangana 10+2 dps bokaro cbse board new delhi, delhi graduated, july 2010 marks 59% division 2 graduated, july 2008 marks 64% division 1 graduated, july 2004 marks 81% division 1 professional qualifications affiliations , , , , lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ Tokens --> ['education', 'masters', ',', 'business', 'administration', 'symbiosis', 'institute', 'management', 'studies', 'aicte', '&', 'ugc', 'board', 'pune', ',', 'maharashtra', 'bachelor', ',', 'technology', 'deccan', 'college', 'engineering', '&', 'technology', 'osmania', 'university', 'board', 'hyderabad', ',', 'telangana', '10+2', 'dps', 'bokaro', 'cbse', 'board', 'new', 'delhi', ',', 'delhi', 'graduated', ',', 'july', '2010', 'marks', '59', '%', 'division', '2', 'graduated', ',', 'july', '2008', 'marks', '64', '%', 'division', '1', 'graduated', ',', 'july', '2004', 'marks', '81', '%', 'division', '1', 'professional', 'qualifications', 'affiliations', ',', ',', ',', ',', 'lorem', 'ipsum', 'dolor', 'sit', 'amet', ',', 'consectetuer', 'adipiscing', 'elit', 'lorem', 'ipsum', 'dolor', 'sit', '.']
+
+ Total Tokens --> 87
+
+ Filtered Tokens [New Stop Words] --> education masters , business administration symbiosis institute management studies aicte & ugc board pune , maharashtra bachelor , technology deccan college engineering & technology osmania university board hyderabad , telangana 10+2 dps bokaro cbse board new delhi , delhi graduated , july 2010 marks 59 % division 2 graduated , july 2008 marks 64 % division 1 graduated , july 2004 marks 81 % division 1 professional qualifications affiliations , , , , lorem ipsum dolor sit amet , consectetuer adipiscing elit lorem ipsum dolor sit .
+
+ Filtered Tokens [punctuations] --> education masters business administration symbiosis institute management studies aicte ugc board pune maharashtra bachelor technology deccan college engineering technology osmania university board hyderabad telangana 10+2 dps bokaro cbse board new delhi delhi graduated july 2010 marks 59 division 2 graduated july 2008 marks 64 division 1 graduated july 2004 marks 81 division 1 professional qualifications affiliations lorem ipsum dolor sit amet consectetuer adipiscing elit lorem ipsum dolor sit
+
+ ------------------------------------------------------------
+
+ sent --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ filtered sentence [stopwords] --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ Tokens --> ['lorem', 'ipsum', 'dolor', 'sit', 'amet', ',', 'consectetuer', 'adipiscing', 'elit', 'lorem', 'ipsum', 'dolor', 'sit', '.']
+
+ Total Tokens --> 14
+
+ Filtered Tokens [New Stop Words] --> lorem ipsum dolor sit amet , consectetuer adipiscing elit lorem ipsum dolor sit .
+
+ Filtered Tokens [punctuations] --> lorem ipsum dolor sit amet consectetuer adipiscing elit lorem ipsum dolor sit
+
+ ------------------------------------------------------------
+
+ sent --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ filtered sentence [stopwords] --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ Tokens --> ['lorem', 'ipsum', 'dolor', 'sit', 'amet', ',', 'consectetuer', 'adipiscing', 'elit', 'lorem', 'ipsum', 'dolor', 'sit', '.']
+
+ Total Tokens --> 14
+
+ Filtered Tokens [New Stop Words] --> lorem ipsum dolor sit amet , consectetuer adipiscing elit lorem ipsum dolor sit .
+
+ Filtered Tokens [punctuations] --> lorem ipsum dolor sit amet consectetuer adipiscing elit lorem ipsum dolor sit
+
+ ------------------------------------------------------------
+
+ sent --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ filtered sentence [stopwords] --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ Tokens --> ['lorem', 'ipsum', 'dolor', 'sit', 'amet', ',', 'consectetuer', 'adipiscing', 'elit', 'lorem', 'ipsum', 'dolor', 'sit', '.']
+
+ Total Tokens --> 14
+
+ Filtered Tokens [New Stop Words] --> lorem ipsum dolor sit amet , consectetuer adipiscing elit lorem ipsum dolor sit .
+
+ Filtered Tokens [punctuations] --> lorem ipsum dolor sit amet consectetuer adipiscing elit lorem ipsum dolor sit
+
+ ------------------------------------------------------------
+
+ sent --> career highlights  lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+ filtered sentence [stopwords] --> career highlights lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+ Tokens --> ['career', 'highlights', 'lorem', 'ipsum', 'dolor', 'sit', 'amet', ',', 'consectetuer', 'adipiscing', 'elit', '.']
+
+ Total Tokens --> 12
+
+ Filtered Tokens [New Stop Words] --> career highlights lorem ipsum dolor sit amet , consectetuer adipiscing elit .
+
+ Filtered Tokens [punctuations] --> career highlights lorem ipsum dolor sit amet consectetuer adipiscing elit
+
+ ------------------------------------------------------------
+
+ sent --> aenean commodo ligula eget dolor.
+
+ filtered sentence [stopwords] --> aenean commodo ligula eget dolor.
+
+ Tokens --> ['aenean', 'commodo', 'ligula', 'eget', 'dolor', '.']
+
+ Total Tokens --> 6
+
+ Filtered Tokens [New Stop Words] --> aenean commodo ligula eget dolor .
+
+ Filtered Tokens [punctuations] --> aenean commodo ligula eget dolor
+
+ ------------------------------------------------------------
+
+ sent --> aenean massa.
+
+ filtered sentence [stopwords] --> aenean massa.
+
+ Tokens --> ['aenean', 'massa', '.']
+
+ Total Tokens --> 3
+
+ Filtered Tokens [New Stop Words] --> aenean massa .
+
+ Filtered Tokens [punctuations] --> aenean massa
+
+ ------------------------------------------------------------
+
+ sent --> cum  sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+ filtered sentence [stopwords] --> cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+ Tokens --> ['cum', 'sociis', 'natoque', 'penatibus', 'et', 'magnis', 'dis', 'parturient', 'montes', ',', 'nascetur', 'ridiculus', 'mus', '.']
+
+ Total Tokens --> 14
+
+ Filtered Tokens [New Stop Words] --> cum sociis natoque penatibus et magnis dis parturient montes , nascetur ridiculus mus .
+
+ Filtered Tokens [punctuations] --> cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus
+
+ ------------------------------------------------------------
+
+ sent --> donec quam felis, ultricies lorem  ipsum dolor sit amet, consectetuer adipiscing elit.
+
+ filtered sentence [stopwords] --> donec quam felis, ultricies lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+ Tokens --> ['donec', 'quam', 'felis', ',', 'ultricies', 'lorem', 'ipsum', 'dolor', 'sit', 'amet', ',', 'consectetuer', 'adipiscing', 'elit', '.']
+
+ Total Tokens --> 15
+
+ Filtered Tokens [New Stop Words] --> donec quam felis , ultricies lorem ipsum dolor sit amet , consectetuer adipiscing elit .
+
+ Filtered Tokens [punctuations] --> donec quam felis ultricies lorem ipsum dolor sit amet consectetuer adipiscing elit
+
+ ------------------------------------------------------------
+
+ sent --> aenean commodo ligula eget dolor.
+
+ filtered sentence [stopwords] --> aenean commodo ligula eget dolor.
+
+ Tokens --> ['aenean', 'commodo', 'ligula', 'eget', 'dolor', '.']
+
+ Total Tokens --> 6
+
+ Filtered Tokens [New Stop Words] --> aenean commodo ligula eget dolor .
+
+ Filtered Tokens [punctuations] --> aenean commodo ligula eget dolor
+
+ ------------------------------------------------------------
+
+ sent --> aenean massa.
+
+ filtered sentence [stopwords] --> aenean massa.
+
+ Tokens --> ['aenean', 'massa', '.']
+
+ Total Tokens --> 3
+
+ Filtered Tokens [New Stop Words] --> aenean massa .
+
+ Filtered Tokens [punctuations] --> aenean massa
+
+ ------------------------------------------------------------
+
+ sent --> cum sociis  natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+ filtered sentence [stopwords] --> cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+ Tokens --> ['cum', 'sociis', 'natoque', 'penatibus', 'et', 'magnis', 'dis', 'parturient', 'montes', ',', 'nascetur', 'ridiculus', 'mus', '.']
+
+ Total Tokens --> 14
+
+ Filtered Tokens [New Stop Words] --> cum sociis natoque penatibus et magnis dis parturient montes , nascetur ridiculus mus .
+
+ Filtered Tokens [punctuations] --> cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus
+
+ ------------------------------------------------------------
+
+ sent --> ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ filtered sentence [stopwords] --> , , lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ Tokens --> [',', ',', 'lorem', 'ipsum', 'dolor', 'sit', 'amet', ',', 'consectetuer', 'adipiscing', 'elit', 'lorem', 'ipsum', 'dolor', 'sit', '.']
+
+ Total Tokens --> 16
+
+ Filtered Tokens [New Stop Words] --> , , lorem ipsum dolor sit amet , consectetuer adipiscing elit lorem ipsum dolor sit .
+
+ Filtered Tokens [punctuations] --> lorem ipsum dolor sit amet consectetuer adipiscing elit lorem ipsum dolor sit
+
+ ------------------------------------------------------------
+
+ sent --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ filtered sentence [stopwords] --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ Tokens --> ['lorem', 'ipsum', 'dolor', 'sit', 'amet', ',', 'consectetuer', 'adipiscing', 'elit', 'lorem', 'ipsum', 'dolor', 'sit', '.']
+
+ Total Tokens --> 14
+
+ Filtered Tokens [New Stop Words] --> lorem ipsum dolor sit amet , consectetuer adipiscing elit lorem ipsum dolor sit .
+
+ Filtered Tokens [punctuations] --> lorem ipsum dolor sit amet consectetuer adipiscing elit lorem ipsum dolor sit
+
+ ------------------------------------------------------------
+
+ sent --> ,,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ filtered sentence [stopwords] --> ,, , lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ Tokens --> [',', ',', ',', 'lorem', 'ipsum', 'dolor', 'sit', 'amet', ',', 'consectetuer', 'adipiscing', 'elit', 'lorem', 'ipsum', 'dolor', 'sit', '.']
+
+ Total Tokens --> 17
+
+ Filtered Tokens [New Stop Words] --> , , , lorem ipsum dolor sit amet , consectetuer adipiscing elit lorem ipsum dolor sit .
+
+ Filtered Tokens [punctuations] --> lorem ipsum dolor sit amet consectetuer adipiscing elit lorem ipsum dolor sit
+
+ ------------------------------------------------------------
+
+ sent --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ filtered sentence [stopwords] --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ Tokens --> ['lorem', 'ipsum', 'dolor', 'sit', 'amet', ',', 'consectetuer', 'adipiscing', 'elit', 'lorem', 'ipsum', 'dolor', 'sit', '.']
+
+ Total Tokens --> 14
+
+ Filtered Tokens [New Stop Words] --> lorem ipsum dolor sit amet , consectetuer adipiscing elit lorem ipsum dolor sit .
+
+ Filtered Tokens [punctuations] --> lorem ipsum dolor sit amet consectetuer adipiscing elit lorem ipsum dolor sit
+
+ ------------------------------------------------------------
+
+ sent --> ,  nulla quis sem  ,  lorem ipsum  ,  integer nec odio  skills  ,  ,  lorem ipsum  ipsum dolor  work experience  april 2014 – current  sales manager  solvent solutions pvt ltd  kolkata, west bangal  lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+ filtered sentence [stopwords] --> , nulla quis sem , lorem ipsum , integer nec odio skills , , lorem ipsum ipsum dolor work experience april 2014 – current sales manager solvent solutions pvt ltd kolkata, west bangal lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+ Tokens --> [',', 'nulla', 'quis', 'sem', ',', 'lorem', 'ipsum', ',', 'integer', 'nec', 'odio', 'skills', ',', ',', 'lorem', 'ipsum', 'ipsum', 'dolor', 'work', 'experience', 'april', '2014', '–', 'current', 'sales', 'manager', 'solvent', 'solutions', 'pvt', 'ltd', 'kolkata', ',', 'west', 'bangal', 'lorem', 'ipsum', 'dolor', 'sit', 'amet', ',', 'consectetuer', 'adipiscing', 'elit', '.']
+
+ Total Tokens --> 44
+
+ Filtered Tokens [New Stop Words] --> , nulla quis sem , lorem ipsum , integer nec odio skills , , lorem ipsum ipsum dolor work experience april 2014 – current sales manager solvent solutions pvt ltd kolkata , west bangal lorem ipsum dolor sit amet , consectetuer adipiscing elit .
+
+ Filtered Tokens [punctuations] --> nulla quis sem lorem ipsum integer nec odio skills lorem ipsum ipsum dolor work experience april 2014 – current sales manager solvent solutions pvt ltd kolkata west bangal lorem ipsum dolor sit amet consectetuer adipiscing elit
+
+ ------------------------------------------------------------
+
+ sent --> aenean commodo ligula eget dolor.
+
+ filtered sentence [stopwords] --> aenean commodo ligula eget dolor.
+
+ Tokens --> ['aenean', 'commodo', 'ligula', 'eget', 'dolor', '.']
+
+ Total Tokens --> 6
+
+ Filtered Tokens [New Stop Words] --> aenean commodo ligula eget dolor .
+
+ Filtered Tokens [punctuations] --> aenean commodo ligula eget dolor
+
+ ------------------------------------------------------------
+
+ sent --> aenean massa.
+
+ filtered sentence [stopwords] --> aenean massa.
+
+ Tokens --> ['aenean', 'massa', '.']
+
+ Total Tokens --> 3
+
+ Filtered Tokens [New Stop Words] --> aenean massa .
+
+ Filtered Tokens [punctuations] --> aenean massa
+
+ ------------------------------------------------------------
+
+ sent --> cum  sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+ filtered sentence [stopwords] --> cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+ Tokens --> ['cum', 'sociis', 'natoque', 'penatibus', 'et', 'magnis', 'dis', 'parturient', 'montes', ',', 'nascetur', 'ridiculus', 'mus', '.']
+
+ Total Tokens --> 14
+
+ Filtered Tokens [New Stop Words] --> cum sociis natoque penatibus et magnis dis parturient montes , nascetur ridiculus mus .
+
+ Filtered Tokens [punctuations] --> cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus
+
+ ------------------------------------------------------------
+
+ sent --> donec quam felis, ultricies lorem  ipsum dolor sit amet, consectetuer adipiscing elit.
+
+ filtered sentence [stopwords] --> donec quam felis, ultricies lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+ Tokens --> ['donec', 'quam', 'felis', ',', 'ultricies', 'lorem', 'ipsum', 'dolor', 'sit', 'amet', ',', 'consectetuer', 'adipiscing', 'elit', '.']
+
+ Total Tokens --> 15
+
+ Filtered Tokens [New Stop Words] --> donec quam felis , ultricies lorem ipsum dolor sit amet , consectetuer adipiscing elit .
+
+ Filtered Tokens [punctuations] --> donec quam felis ultricies lorem ipsum dolor sit amet consectetuer adipiscing elit
+
+ ------------------------------------------------------------
+
+ sent --> aenean commodo ligula eget dolor.
+
+ filtered sentence [stopwords] --> aenean commodo ligula eget dolor.
+
+ Tokens --> ['aenean', 'commodo', 'ligula', 'eget', 'dolor', '.']
+
+ Total Tokens --> 6
+
+ Filtered Tokens [New Stop Words] --> aenean commodo ligula eget dolor .
+
+ Filtered Tokens [punctuations] --> aenean commodo ligula eget dolor
+
+ ------------------------------------------------------------
+
+ sent --> aenean massa.
+
+ filtered sentence [stopwords] --> aenean massa.
+
+ Tokens --> ['aenean', 'massa', '.']
+
+ Total Tokens --> 3
+
+ Filtered Tokens [New Stop Words] --> aenean massa .
+
+ Filtered Tokens [punctuations] --> aenean massa
+
+ ------------------------------------------------------------
+
+ sent --> cum sociis  natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+ filtered sentence [stopwords] --> cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+ Tokens --> ['cum', 'sociis', 'natoque', 'penatibus', 'et', 'magnis', 'dis', 'parturient', 'montes', ',', 'nascetur', 'ridiculus', 'mus', '.']
+
+ Total Tokens --> 14
+
+ Filtered Tokens [New Stop Words] --> cum sociis natoque penatibus et magnis dis parturient montes , nascetur ridiculus mus .
+
+ Filtered Tokens [punctuations] --> cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus
+
+ ------------------------------------------------------------
+
+ sent --> ,  ,  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ filtered sentence [stopwords] --> , , , , lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ Tokens --> [',', ',', ',', ',', 'lorem', 'ipsum', 'dolor', 'sit', 'amet', ',', 'consectetuer', 'adipiscing', 'elit', 'lorem', 'ipsum', 'dolor', 'sit', '.']
+
+ Total Tokens --> 18
+
+ Filtered Tokens [New Stop Words] --> , , , , lorem ipsum dolor sit amet , consectetuer adipiscing elit lorem ipsum dolor sit .
+
+ Filtered Tokens [punctuations] --> lorem ipsum dolor sit amet consectetuer adipiscing elit lorem ipsum dolor sit
+
+ ------------------------------------------------------------
+
+ sent --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ filtered sentence [stopwords] --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ Tokens --> ['lorem', 'ipsum', 'dolor', 'sit', 'amet', ',', 'consectetuer', 'adipiscing', 'elit', 'lorem', 'ipsum', 'dolor', 'sit', '.']
+
+ Total Tokens --> 14
+
+ Filtered Tokens [New Stop Words] --> lorem ipsum dolor sit amet , consectetuer adipiscing elit lorem ipsum dolor sit .
+
+ Filtered Tokens [punctuations] --> lorem ipsum dolor sit amet consectetuer adipiscing elit lorem ipsum dolor sit
+
+ ------------------------------------------------------------
+
+ sent --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ filtered sentence [stopwords] --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ Tokens --> ['lorem', 'ipsum', 'dolor', 'sit', 'amet', ',', 'consectetuer', 'adipiscing', 'elit', 'lorem', 'ipsum', 'dolor', 'sit', '.']
+
+ Total Tokens --> 14
+
+ Filtered Tokens [New Stop Words] --> lorem ipsum dolor sit amet , consectetuer adipiscing elit lorem ipsum dolor sit .
+
+ Filtered Tokens [punctuations] --> lorem ipsum dolor sit amet consectetuer adipiscing elit lorem ipsum dolor sit
+
+ ------------------------------------------------------------
+
+ sent --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ filtered sentence [stopwords] --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ Tokens --> ['lorem', 'ipsum', 'dolor', 'sit', 'amet', ',', 'consectetuer', 'adipiscing', 'elit', 'lorem', 'ipsum', 'dolor', 'sit', '.']
+
+ Total Tokens --> 14
+
+ Filtered Tokens [New Stop Words] --> lorem ipsum dolor sit amet , consectetuer adipiscing elit lorem ipsum dolor sit .
+
+ Filtered Tokens [punctuations] --> lorem ipsum dolor sit amet consectetuer adipiscing elit lorem ipsum dolor sit
+
+ ------------------------------------------------------------
+
+ sent --> october 2011 – march 2014  team leader  serena global pvt ltd  gurgaon, delhi-ncr  lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+ filtered sentence [stopwords] --> october 2011 – march 2014 team leader serena global pvt ltd gurgaon, delhi-ncr lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+ Tokens --> ['october', '2011', '–', 'march', '2014', 'team', 'leader', 'serena', 'global', 'pvt', 'ltd', 'gurgaon', ',', 'delhi-ncr', 'lorem', 'ipsum', 'dolor', 'sit', 'amet', ',', 'consectetuer', 'adipiscing', 'elit', '.']
+
+ Total Tokens --> 24
+
+ Filtered Tokens [New Stop Words] --> october 2011 – march 2014 team leader serena global pvt ltd gurgaon , delhi-ncr lorem ipsum dolor sit amet , consectetuer adipiscing elit .
+
+ Filtered Tokens [punctuations] --> october 2011 – march 2014 team leader serena global pvt ltd gurgaon delhi-ncr lorem ipsum dolor sit amet consectetuer adipiscing elit
+
+ ------------------------------------------------------------
+
+ sent --> aenean commodo ligula eget dolor.
+
+ filtered sentence [stopwords] --> aenean commodo ligula eget dolor.
+
+ Tokens --> ['aenean', 'commodo', 'ligula', 'eget', 'dolor', '.']
+
+ Total Tokens --> 6
+
+ Filtered Tokens [New Stop Words] --> aenean commodo ligula eget dolor .
+
+ Filtered Tokens [punctuations] --> aenean commodo ligula eget dolor
+
+ ------------------------------------------------------------
+
+ sent --> aenean massa.
+
+ filtered sentence [stopwords] --> aenean massa.
+
+ Tokens --> ['aenean', 'massa', '.']
+
+ Total Tokens --> 3
+
+ Filtered Tokens [New Stop Words] --> aenean massa .
+
+ Filtered Tokens [punctuations] --> aenean massa
+
+ ------------------------------------------------------------
+
+ sent --> cum  sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+ filtered sentence [stopwords] --> cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+ Tokens --> ['cum', 'sociis', 'natoque', 'penatibus', 'et', 'magnis', 'dis', 'parturient', 'montes', ',', 'nascetur', 'ridiculus', 'mus', '.']
+
+ Total Tokens --> 14
+
+ Filtered Tokens [New Stop Words] --> cum sociis natoque penatibus et magnis dis parturient montes , nascetur ridiculus mus .
+
+ Filtered Tokens [punctuations] --> cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus
+
+ ------------------------------------------------------------
+
+ sent --> donec quam felis, ultricies lorem  ipsum dolor sit amet, consectetuer adipiscing elit.
+
+ filtered sentence [stopwords] --> donec quam felis, ultricies lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+ Tokens --> ['donec', 'quam', 'felis', ',', 'ultricies', 'lorem', 'ipsum', 'dolor', 'sit', 'amet', ',', 'consectetuer', 'adipiscing', 'elit', '.']
+
+ Total Tokens --> 15
+
+ Filtered Tokens [New Stop Words] --> donec quam felis , ultricies lorem ipsum dolor sit amet , consectetuer adipiscing elit .
+
+ Filtered Tokens [punctuations] --> donec quam felis ultricies lorem ipsum dolor sit amet consectetuer adipiscing elit
+
+ ------------------------------------------------------------
+
+ sent --> aenean commodo ligula eget dolor.
+
+ filtered sentence [stopwords] --> aenean commodo ligula eget dolor.
+
+ Tokens --> ['aenean', 'commodo', 'ligula', 'eget', 'dolor', '.']
+
+ Total Tokens --> 6
+
+ Filtered Tokens [New Stop Words] --> aenean commodo ligula eget dolor .
+
+ Filtered Tokens [punctuations] --> aenean commodo ligula eget dolor
+
+ ------------------------------------------------------------
+
+ sent --> aenean massa.
+
+ filtered sentence [stopwords] --> aenean massa.
+
+ Tokens --> ['aenean', 'massa', '.']
+
+ Total Tokens --> 3
+
+ Filtered Tokens [New Stop Words] --> aenean massa .
+
+ Filtered Tokens [punctuations] --> aenean massa
+
+ ------------------------------------------------------------
+
+ sent --> cum sociis  natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+ filtered sentence [stopwords] --> cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+ Tokens --> ['cum', 'sociis', 'natoque', 'penatibus', 'et', 'magnis', 'dis', 'parturient', 'montes', ',', 'nascetur', 'ridiculus', 'mus', '.']
+
+ Total Tokens --> 14
+
+ Filtered Tokens [New Stop Words] --> cum sociis natoque penatibus et magnis dis parturient montes , nascetur ridiculus mus .
+
+ Filtered Tokens [punctuations] --> cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus
+
+ ------------------------------------------------------------
+
+ sent --> ,  ,  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ filtered sentence [stopwords] --> , , , , lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ Tokens --> [',', ',', ',', ',', 'lorem', 'ipsum', 'dolor', 'sit', 'amet', ',', 'consectetuer', 'adipiscing', 'elit', 'lorem', 'ipsum', 'dolor', 'sit', '.']
+
+ Total Tokens --> 18
+
+ Filtered Tokens [New Stop Words] --> , , , , lorem ipsum dolor sit amet , consectetuer adipiscing elit lorem ipsum dolor sit .
+
+ Filtered Tokens [punctuations] --> lorem ipsum dolor sit amet consectetuer adipiscing elit lorem ipsum dolor sit
+
+ ------------------------------------------------------------
+
+ sent --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ filtered sentence [stopwords] --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ Tokens --> ['lorem', 'ipsum', 'dolor', 'sit', 'amet', ',', 'consectetuer', 'adipiscing', 'elit', 'lorem', 'ipsum', 'dolor', 'sit', '.']
+
+ Total Tokens --> 14
+
+ Filtered Tokens [New Stop Words] --> lorem ipsum dolor sit amet , consectetuer adipiscing elit lorem ipsum dolor sit .
+
+ Filtered Tokens [punctuations] --> lorem ipsum dolor sit amet consectetuer adipiscing elit lorem ipsum dolor sit
+
+ ------------------------------------------------------------
+
+ sent --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ filtered sentence [stopwords] --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ Tokens --> ['lorem', 'ipsum', 'dolor', 'sit', 'amet', ',', 'consectetuer', 'adipiscing', 'elit', 'lorem', 'ipsum', 'dolor', 'sit', '.']
+
+ Total Tokens --> 14
+
+ Filtered Tokens [New Stop Words] --> lorem ipsum dolor sit amet , consectetuer adipiscing elit lorem ipsum dolor sit .
+
+ Filtered Tokens [punctuations] --> lorem ipsum dolor sit amet consectetuer adipiscing elit lorem ipsum dolor sit
+
+ ------------------------------------------------------------
+
+ sent --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ filtered sentence [stopwords] --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ Tokens --> ['lorem', 'ipsum', 'dolor', 'sit', 'amet', ',', 'consectetuer', 'adipiscing', 'elit', 'lorem', 'ipsum', 'dolor', 'sit', '.']
+
+ Total Tokens --> 14
+
+ Filtered Tokens [New Stop Words] --> lorem ipsum dolor sit amet , consectetuer adipiscing elit lorem ipsum dolor sit .
+
+ Filtered Tokens [punctuations] --> lorem ipsum dolor sit amet consectetuer adipiscing elit lorem ipsum dolor sit
+
+ ------------------------------------------------------------
+
+ sent --> august 2009 – october 2011  sales assistant  tamcoj technologies  pimpri-pune, maharashtra  lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+ filtered sentence [stopwords] --> august 2009 – october 2011 sales assistant tamcoj technologies pimpri-pune, maharashtra lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+ Tokens --> ['august', '2009', '–', 'october', '2011', 'sales', 'assistant', 'tamcoj', 'technologies', 'pimpri-pune', ',', 'maharashtra', 'lorem', 'ipsum', 'dolor', 'sit', 'amet', ',', 'consectetuer', 'adipiscing', 'elit', '.']
+
+ Total Tokens --> 22
+
+ Filtered Tokens [New Stop Words] --> august 2009 – october 2011 sales assistant tamcoj technologies pimpri-pune , maharashtra lorem ipsum dolor sit amet , consectetuer adipiscing elit .
+
+ Filtered Tokens [punctuations] --> august 2009 – october 2011 sales assistant tamcoj technologies pimpri-pune maharashtra lorem ipsum dolor sit amet consectetuer adipiscing elit
+
+ ------------------------------------------------------------
+
+ sent --> aenean commodo ligula eget dolor.
+
+ filtered sentence [stopwords] --> aenean commodo ligula eget dolor.
+
+ Tokens --> ['aenean', 'commodo', 'ligula', 'eget', 'dolor', '.']
+
+ Total Tokens --> 6
+
+ Filtered Tokens [New Stop Words] --> aenean commodo ligula eget dolor .
+
+ Filtered Tokens [punctuations] --> aenean commodo ligula eget dolor
+
+ ------------------------------------------------------------
+
+ sent --> aenean massa.
+
+ filtered sentence [stopwords] --> aenean massa.
+
+ Tokens --> ['aenean', 'massa', '.']
+
+ Total Tokens --> 3
+
+ Filtered Tokens [New Stop Words] --> aenean massa .
+
+ Filtered Tokens [punctuations] --> aenean massa
+
+ ------------------------------------------------------------
+
+ sent --> cum  sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+ filtered sentence [stopwords] --> cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+ Tokens --> ['cum', 'sociis', 'natoque', 'penatibus', 'et', 'magnis', 'dis', 'parturient', 'montes', ',', 'nascetur', 'ridiculus', 'mus', '.']
+
+ Total Tokens --> 14
+
+ Filtered Tokens [New Stop Words] --> cum sociis natoque penatibus et magnis dis parturient montes , nascetur ridiculus mus .
+
+ Filtered Tokens [punctuations] --> cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus
+
+ ------------------------------------------------------------
+
+ sent --> donec quam felis, ultricies lorem  ipsum dolor sit amet, consectetuer adipiscing elit.
+
+ filtered sentence [stopwords] --> donec quam felis, ultricies lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+ Tokens --> ['donec', 'quam', 'felis', ',', 'ultricies', 'lorem', 'ipsum', 'dolor', 'sit', 'amet', ',', 'consectetuer', 'adipiscing', 'elit', '.']
+
+ Total Tokens --> 15
+
+ Filtered Tokens [New Stop Words] --> donec quam felis , ultricies lorem ipsum dolor sit amet , consectetuer adipiscing elit .
+
+ Filtered Tokens [punctuations] --> donec quam felis ultricies lorem ipsum dolor sit amet consectetuer adipiscing elit
+
+ ------------------------------------------------------------
+
+ sent --> aenean commodo ligula eget dolor.
+
+ filtered sentence [stopwords] --> aenean commodo ligula eget dolor.
+
+ Tokens --> ['aenean', 'commodo', 'ligula', 'eget', 'dolor', '.']
+
+ Total Tokens --> 6
+
+ Filtered Tokens [New Stop Words] --> aenean commodo ligula eget dolor .
+
+ Filtered Tokens [punctuations] --> aenean commodo ligula eget dolor
+
+ ------------------------------------------------------------
+
+ sent --> aenean massa.
+
+ filtered sentence [stopwords] --> aenean massa.
+
+ Tokens --> ['aenean', 'massa', '.']
+
+ Total Tokens --> 3
+
+ Filtered Tokens [New Stop Words] --> aenean massa .
+
+ Filtered Tokens [punctuations] --> aenean massa
+
+ ------------------------------------------------------------
+
+ sent --> cum sociis  natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+ filtered sentence [stopwords] --> cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+ Tokens --> ['cum', 'sociis', 'natoque', 'penatibus', 'et', 'magnis', 'dis', 'parturient', 'montes', ',', 'nascetur', 'ridiculus', 'mus', '.']
+
+ Total Tokens --> 14
+
+ Filtered Tokens [New Stop Words] --> cum sociis natoque penatibus et magnis dis parturient montes , nascetur ridiculus mus .
+
+ Filtered Tokens [punctuations] --> cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus
+
+ ------------------------------------------------------------
+
+ sent --> ,  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ filtered sentence [stopwords] --> , , , lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ Tokens --> [',', ',', ',', 'lorem', 'ipsum', 'dolor', 'sit', 'amet', ',', 'consectetuer', 'adipiscing', 'elit', 'lorem', 'ipsum', 'dolor', 'sit', '.']
+
+ Total Tokens --> 17
+
+ Filtered Tokens [New Stop Words] --> , , , lorem ipsum dolor sit amet , consectetuer adipiscing elit lorem ipsum dolor sit .
+
+ Filtered Tokens [punctuations] --> lorem ipsum dolor sit amet consectetuer adipiscing elit lorem ipsum dolor sit
+
+ ------------------------------------------------------------
+
+ sent --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ filtered sentence [stopwords] --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ Tokens --> ['lorem', 'ipsum', 'dolor', 'sit', 'amet', ',', 'consectetuer', 'adipiscing', 'elit', 'lorem', 'ipsum', 'dolor', 'sit', '.']
+
+ Total Tokens --> 14
+
+ Filtered Tokens [New Stop Words] --> lorem ipsum dolor sit amet , consectetuer adipiscing elit lorem ipsum dolor sit .
+
+ Filtered Tokens [punctuations] --> lorem ipsum dolor sit amet consectetuer adipiscing elit lorem ipsum dolor sit
+
+ ------------------------------------------------------------
+
+ sent --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ filtered sentence [stopwords] --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ Tokens --> ['lorem', 'ipsum', 'dolor', 'sit', 'amet', ',', 'consectetuer', 'adipiscing', 'elit', 'lorem', 'ipsum', 'dolor', 'sit', '.']
+
+ Total Tokens --> 14
+
+ Filtered Tokens [New Stop Words] --> lorem ipsum dolor sit amet , consectetuer adipiscing elit lorem ipsum dolor sit .
+
+ Filtered Tokens [punctuations] --> lorem ipsum dolor sit amet consectetuer adipiscing elit lorem ipsum dolor sit
+
+ ------------------------------------------------------------
+
+ sent --> ,,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ filtered sentence [stopwords] --> ,, lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ Tokens --> [',', ',', 'lorem', 'ipsum', 'dolor', 'sit', 'amet', ',', 'consectetuer', 'adipiscing', 'elit', 'lorem', 'ipsum', 'dolor', 'sit', '.']
+
+ Total Tokens --> 16
+
+ Filtered Tokens [New Stop Words] --> , , lorem ipsum dolor sit amet , consectetuer adipiscing elit lorem ipsum dolor sit .
+
+ Filtered Tokens [punctuations] --> lorem ipsum dolor sit amet consectetuer adipiscing elit lorem ipsum dolor sit
+
+ ------------------------------------------------------------
+
+ sent --> computer proficiency  ,  word 2010    ,  excel 2010  ,  power point 2010  languages  ,  hindi  ,  english  personal interests  ,  ,  ,  lorem ipsum dolor sit amet  lorem ipsum dolor  lorem ipsum dolor sit  personal details  ,  ,  lorem ipsum dolor sit  lorem ipsum  father’s name:  mr. abhijeet kumar    birthday:  gender:  october 28, 1982  male  marital status:  single  indian  nationality:  declaration  i, ram kumar, hereby declare that the information contained herein is true and correct to the best of my knowledge  and belief.
+
+ filtered sentence [stopwords] --> computer proficiency , word 2010 , excel 2010 , power point 2010 languages , hindi , english personal interests , , , lorem ipsum dolor sit amet lorem ipsum dolor lorem ipsum dolor sit personal details , , lorem ipsum dolor sit lorem ipsum father’s name: mr. abhijeet kumar birthday: gender: october 28, 1982 male marital status: single indian nationality: declaration i, ram kumar, hereby declare information contained herein true correct best knowledge belief.
+
+ Tokens --> ['computer', 'proficiency', ',', 'word', '2010', ',', 'excel', '2010', ',', 'power', 'point', '2010', 'languages', ',', 'hindi', ',', 'english', 'personal', 'interests', ',', ',', ',', 'lorem', 'ipsum', 'dolor', 'sit', 'amet', 'lorem', 'ipsum', 'dolor', 'lorem', 'ipsum', 'dolor', 'sit', 'personal', 'details', ',', ',', 'lorem', 'ipsum', 'dolor', 'sit', 'lorem', 'ipsum', 'father', '’', 's', 'name', ':', 'mr.', 'abhijeet', 'kumar', 'birthday', ':', 'gender', ':', 'october', '28', ',', '1982', 'male', 'marital', 'status', ':', 'single', 'indian', 'nationality', ':', 'declaration', 'i', ',', 'ram', 'kumar', ',', 'hereby', 'declare', 'information', 'contained', 'herein', 'true', 'correct', 'best', 'knowledge', 'belief', '.']
+
+ Total Tokens --> 85
+
+ Filtered Tokens [New Stop Words] --> computer proficiency , word 2010 , excel 2010 , power point 2010 languages , hindi , english personal interests , , , lorem ipsum dolor sit amet lorem ipsum dolor lorem ipsum dolor sit personal details , , lorem ipsum dolor sit lorem ipsum father ’ s name : mr. abhijeet kumar birthday : gender : october 28 , 1982 male marital status : single indian nationality : declaration i , ram kumar , hereby declare information contained herein true correct best knowledge belief .
+
+ Filtered Tokens [punctuations] --> computer proficiency word 2010 excel 2010 power point 2010 languages hindi english personal interests lorem ipsum dolor sit amet lorem ipsum dolor lorem ipsum dolor sit personal details lorem ipsum dolor sit lorem ipsum father ’ s name mr. abhijeet kumar birthday gender october 28 1982 male marital status single indian nationality declaration i ram kumar hereby declare information contained herein true correct best knowledge belief
+
+ ------------------------------------------------------------
+
+ sent --> ____________________________  ram kumar  mumbai, maharashtra  march 1, 2015
+
+ filtered sentence [stopwords] --> ____________________________ ram kumar mumbai, maharashtra march 1, 2015
+
+ Tokens --> ['____________________________', 'ram', 'kumar', 'mumbai', ',', 'maharashtra', 'march', '1', ',', '2015']
+
+ Total Tokens --> 10
+
+ Filtered Tokens [New Stop Words] --> ram kumar mumbai , maharashtra march 1 , 2015
+
+ Filtered Tokens [punctuations] --> ____________________________ ram kumar mumbai maharashtra march 1 2015
+
+ ------------------------------------------------------------
+
+ ***** SPACY ***** 
+
+ --- doc --- 
+ ram kumar  g/14, sunset heights  53 juhu tara road  mumbai -40049  maharashtra  shri.babuji@shriresume.com  shri.babuji@shriresume.com  linkedin.com/in/shribabuji  about me  marketing and sales professional  lorem ipsum dolor sit amet, consectetur adipiscing elit. integer nec odio. praesent libero. sed cursus ante dapi-bus  diam. sed nisi. nulla quis sem at nibh elementum imperdiet. duis sagittis ipsum. praesent mauris. fusce nec tellus  sed augue semper porta. mauris massa. vestibulum lacinia arcu eget nulla. class aptent taciti sociosqu ad litora  torquent per conubia nostra, per inceptos himenaeos.  education  masters, business administration  symbiosis institute of management studies  aicte & ugc board  pune, maharashtra  bachelor, technology  deccan college of engineering & technology  osmania university board  hyderabad, telangana  10+2  dps bokaro  cbse board  new delhi, delhi  graduated, july 2010  marks 59%  division 2  graduated, july 2008  marks 64%  division 1  graduated, july 2004  marks 81%  division 1  professional qualifications and affiliations  ,  ,  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  career highlights  lorem ipsum dolor sit amet, consectetuer adipiscing elit. aenean commodo ligula eget dolor. aenean massa. cum  sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. donec quam felis, ultricies lorem  ipsum dolor sit amet, consectetuer adipiscing elit. aenean commodo ligula eget dolor. aenean massa. cum sociis  natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.                                                                                ,,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  ,  nulla quis sem  ,  lorem ipsum  ,  integer nec odio  skills  ,  ,  lorem ipsum  ipsum dolor  work experience  april 2014 – current  sales manager  solvent solutions pvt ltd  kolkata, west bangal  lorem ipsum dolor sit amet, consectetuer adipiscing elit. aenean commodo ligula eget dolor. aenean massa. cum  sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. donec quam felis, ultricies lorem  ipsum dolor sit amet, consectetuer adipiscing elit. aenean commodo ligula eget dolor. aenean massa. cum sociis  natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.  ,  ,  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  october 2011 – march 2014  team leader  serena global pvt ltd  gurgaon, delhi-ncr  lorem ipsum dolor sit amet, consectetuer adipiscing elit. aenean commodo ligula eget dolor. aenean massa. cum  sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. donec quam felis, ultricies lorem  ipsum dolor sit amet, consectetuer adipiscing elit. aenean commodo ligula eget dolor. aenean massa. cum sociis  natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.  ,  ,  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  august 2009 – october 2011  sales assistant  tamcoj technologies  pimpri-pune, maharashtra  lorem ipsum dolor sit amet, consectetuer adipiscing elit. aenean commodo ligula eget dolor. aenean massa. cum  sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. donec quam felis, ultricies lorem  ipsum dolor sit amet, consectetuer adipiscing elit. aenean commodo ligula eget dolor. aenean massa. cum sociis  natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.  ,  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.                ,,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.  computer proficiency  ,  word 2010    ,  excel 2010  ,  power point 2010  languages  ,  hindi  ,  english  personal interests  ,  ,  ,  lorem ipsum dolor sit amet  lorem ipsum dolor  lorem ipsum dolor sit  personal details  ,  ,  lorem ipsum dolor sit  lorem ipsum  father’s name:  mr. abhijeet kumar    birthday:  gender:  october 28, 1982  male  marital status:  single  indian  nationality:  declaration  i, ram kumar, hereby declare that the information contained herein is true and correct to the best of my knowledge  and belief.  ____________________________  ram kumar  mumbai, maharashtra  march 1, 2015
+
+ ------ Spacy Sentences ------ 
+
+ 
+
+ sent --> ram kumar  g/14, sunset heights  53 juhu tara road  mumbai -40049  maharashtra  shri.babuji@shriresume.com  shri.babuji@shriresume.com  linkedin.com/in/shribabuji  about me  marketing and sales professional  lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+ sentence entities --> [mumbai, maharashtra]
+
+ mumbai -> LOCATION
+
+ sentence entities --> [mumbai, maharashtra]
+
+ maharashtra -> LOCATION
+
+ sent --> integer nec odio.
+
+ sent --> praesent libero.
+
+ sent --> sed cursus ante dapi-bus  diam.
+
+ sent --> sed nisi.
+
+ sent --> nulla quis sem at nibh elementum imperdiet.
+
+ sent --> duis sagittis ipsum.
+
+ sent --> praesent mauris.
+
+ sentence entities --> [mauris]
+
+ mauris -> LOCATION
+
+ sent --> fusce nec tellus  sed augue semper porta.
+
+ sent --> mauris massa.
+
+ sent --> vestibulum lacinia arcu eget nulla.
+
+ sent --> class aptent taciti sociosqu ad litora  torquent per conubia nostra, per inceptos himenaeos.
+
+ sent -->  education  masters, business administration  symbiosis institute of management studies  aicte & ugc board  pune, maharashtra  bachelor, technology  deccan college of engineering & technology  osmania university board  hyderabad, telangana  10+2  dps bokaro  cbse board  new delhi, delhi  graduated, july 2010  marks 59%  division 2  graduated, july 2008  marks 64%  division 1  graduated, july 2004  marks 81%  division 1  professional qualifications and affiliations  ,  ,  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sentence entities --> [management, maharashtra, 2]
+
+ management -> LOCATION
+
+ sentence entities --> [management, maharashtra, 2]
+
+ maharashtra -> LOCATION
+
+ sentence entities --> [management, maharashtra, 2]
+
+ 2 -> TECH_SKILLS
+
+ sent -->  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sent -->  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sent -->  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sent -->  career highlights  lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+ sent --> aenean commodo ligula eget dolor.
+
+ sent --> aenean massa.
+
+ sent --> cum  sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+ sentence entities --> [mus]
+
+ mus -> LOCATION
+
+ sent --> donec quam felis, ultricies lorem  ipsum dolor sit amet, consectetuer adipiscing elit.
+
+ sent --> aenean commodo ligula eget dolor.
+
+ sent --> aenean massa.
+
+ sent --> cum sociis  natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+ sentence entities --> [mus]
+
+ mus -> LOCATION
+
+ sent -->  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sent -->  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sent -->                                                                                ,,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sent -->  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sent -->  ,  nulla quis sem  ,  lorem ipsum  ,  integer nec odio  skills  ,  ,  lorem ipsum  ipsum dolor  work experience  april 2014 – current  sales manager  solvent solutions pvt ltd  kolkata, west bangal  lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+ sent --> aenean commodo ligula eget dolor.
+
+ sent --> aenean massa.
+
+ sent --> cum  sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+ sentence entities --> [mus]
+
+ mus -> LOCATION
+
+ sent --> donec quam felis, ultricies lorem  ipsum dolor sit amet, consectetuer adipiscing elit.
+
+ sent --> aenean commodo ligula eget dolor.
+
+ sent --> aenean massa.
+
+ sent --> cum sociis  natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+ sentence entities --> [mus]
+
+ mus -> LOCATION
+
+ sent -->  ,  ,  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sent -->  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sent -->  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sent -->  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sent -->  october 2011 – march 2014  team leader  serena global pvt ltd  gurgaon, delhi-ncr  lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+ sentence entities --> [march]
+
+ march -> PERSON_NAME
+
+ sent --> aenean commodo ligula eget dolor.
+
+ sent --> aenean massa.
+
+ sent --> cum  sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+ sentence entities --> [mus]
+
+ mus -> LOCATION
+
+ sent --> donec quam felis, ultricies lorem  ipsum dolor sit amet, consectetuer adipiscing elit.
+
+ sent --> aenean commodo ligula eget dolor.
+
+ sent --> aenean massa.
+
+ sent --> cum sociis  natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+ sentence entities --> [mus]
+
+ mus -> LOCATION
+
+ sent -->  ,  ,  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sent -->  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sent -->  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sent -->  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sent -->  august 2009 – october 2011  sales assistant  tamcoj technologies  pimpri-pune, maharashtra  lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+ sentence entities --> [2011, maharashtra]
+
+ 2011 -> LOCATION
+
+ sentence entities --> [2011, maharashtra]
+
+ maharashtra -> LOCATION
+
+ sent --> aenean commodo ligula eget dolor.
+
+ sent --> aenean massa.
+
+ sent --> cum  sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+ sentence entities --> [mus]
+
+ mus -> LOCATION
+
+ sent --> donec quam felis, ultricies lorem  ipsum dolor sit amet, consectetuer adipiscing elit.
+
+ sent --> aenean commodo ligula eget dolor.
+
+ sent --> aenean massa.
+
+ sent --> cum sociis  natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+ sentence entities --> [mus]
+
+ mus -> LOCATION
+
+ sent -->  ,  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sent -->  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sent -->  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sent -->                ,,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sent -->  computer proficiency  ,  word 2010    ,  excel 2010  ,  power point 2010  languages  ,  hindi  ,  english  personal interests  ,  ,  ,  lorem ipsum dolor sit amet  lorem ipsum dolor  lorem ipsum dolor sit  personal details  ,  ,  lorem ipsum dolor sit  lorem ipsum  father’s name:  mr.
+
+ sent --> abhijeet kumar    birthday:  gender:  october 28, 1982  male  marital status:  single  indian  nationality:  declaration  i, ram kumar, hereby declare that the information contained herein is true and correct to the best of my knowledge  and belief.
+
+ sentence entities --> [male, declaration, declare]
+
+ male -> LOCATION
+
+ sentence entities --> [male, declaration, declare]
+
+ declaration -> TECH_SKILLS
+
+ sentence entities --> [male, declaration, declare]
+
+ declare -> TECH_SKILLS
+
+ sent -->  ____________________________  ram kumar  mumbai, maharashtra  march 1, 2015
+
+ sentence entities --> [mumbai, maharashtra]
+
+ mumbai -> LOCATION
+
+ sentence entities --> [mumbai, maharashtra]
+
+ maharashtra -> LOCATION
+
+ filtered sentence --> [ram, kumar, g/14, sunset, heights, 53, juhu, tara, road, mumbai, -40049, maharashtra, shri.babuji@shriresume.com, shri.babuji@shriresume.com, linkedin.com/in/shribabuji, marketing, sales, professional, lorem, ipsum, dolor, sit, amet, consectetur, adipiscing, elit, integer, nec, odio, praesent, libero, sed, cursus, ante, dapi, bus, diam, sed, nisi, nulla, quis, sem, nibh, elementum, imperdiet, duis, sagittis, ipsum, praesent, mauris, fusce, nec, tellus, sed, augue, semper, porta, mauris, massa, vestibulum, lacinia, arcu, eget, nulla, class, aptent, taciti, sociosqu, ad, litora, torquent, conubia, nostra, inceptos, himenaeos, education, masters, business, administration, symbiosis, institute, management, studies, aicte, ugc, board, pune, maharashtra, bachelor, technology, deccan, college, engineering, technology, osmania, university, board, hyderabad, telangana, 10, 2, dps, bokaro, cbse, board, new, delhi, delhi, graduated, july, 2010, marks, 59, division, 2, graduated, july, 2008, marks, 64, division, 1, graduated, july, 2004, marks, 81, division, 1, professional, qualifications, affiliations, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, career, highlights, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, aenean, commodo, ligula, eget, dolor, aenean, massa, cum, sociis, natoque, penatibus, et, magnis, dis, parturient, montes, nascetur, ridiculus, mus, donec, quam, felis, ultricies, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, aenean, commodo, ligula, eget, dolor, aenean, massa, cum, sociis, natoque, penatibus, et, magnis, dis, parturient, montes, nascetur, ridiculus, mus, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, nulla, quis, sem, lorem, ipsum, integer, nec, odio, skills, lorem, ipsum, ipsum, dolor, work, experience, april, 2014, –, current, sales, manager, solvent, solutions, pvt, ltd, kolkata, west, bangal, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, aenean, commodo, ligula, eget, dolor, aenean, massa, cum, sociis, natoque, penatibus, et, magnis, dis, parturient, montes, nascetur, ridiculus, mus, donec, quam, felis, ultricies, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, aenean, commodo, ligula, eget, dolor, aenean, massa, cum, sociis, natoque, penatibus, et, magnis, dis, parturient, montes, nascetur, ridiculus, mus, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, october, 2011, –, march, 2014, team, leader, serena, global, pvt, ltd, gurgaon, delhi, ncr, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, aenean, commodo, ligula, eget, dolor, aenean, massa, cum, sociis, natoque, penatibus, et, magnis, dis, parturient, montes, nascetur, ridiculus, mus, donec, quam, felis, ultricies, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, aenean, commodo, ligula, eget, dolor, aenean, massa, cum, sociis, natoque, penatibus, et, magnis, dis, parturient, montes, nascetur, ridiculus, mus, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, august, 2009, –, october, 2011, sales, assistant, tamcoj, technologies, pimpri, pune, maharashtra, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, aenean, commodo, ligula, eget, dolor, aenean, massa, cum, sociis, natoque, penatibus, et, magnis, dis, parturient, montes, nascetur, ridiculus, mus, donec, quam, felis, ultricies, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, aenean, commodo, ligula, eget, dolor, aenean, massa, cum, sociis, natoque, penatibus, et, magnis, dis, parturient, montes, nascetur, ridiculus, mus, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, computer, proficiency, word, 2010, excel, 2010, power, point, 2010, languages, hindi, english, personal, interests, lorem, ipsum, dolor, sit, amet, lorem, ipsum, dolor, lorem, ipsum, dolor, sit, personal, details, lorem, ipsum, dolor, sit, lorem, ipsum, father, mr, abhijeet, kumar, birthday, gender, october, 28, 1982, male, marital, status, single, indian, nationality, declaration, ram, kumar, declare, information, contained, true, correct, best, knowledge, belief, ram, kumar, mumbai, maharashtra, march, 1, 2015]

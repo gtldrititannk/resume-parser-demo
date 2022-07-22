@@ -2,6 +2,7 @@ import glob
 import os
 import re
 import string
+from collections import Counter
 
 import nltk
 import spacy
@@ -59,7 +60,9 @@ def ext_sent(lines, output_fname):
         fw.write(f'\n\n {"------"*10}')
 
     # --- spacy ----
-    nlp = spacy.load("en_core_web_sm")
+    # nlp = spacy.load("en_core_web_sm")
+    nlp = spacy.load("./trained_models/")
+    nlp.add_pipe('sentencizer')
     doc = nlp(lines)
     fw.write('\n\n ***** SPACY ***** ')
     fw.write(f'\n\n --- doc --- \n {doc}')
@@ -75,7 +78,13 @@ def ext_sent(lines, output_fname):
                 if lexeme.is_stop is False:
                     filtered_sentence.append(sent_tk)
         for y in sent.ents:
+            # print('\n\n sentence --> ', sent.text.strip())
+            # print('\n\n ents --> ', sent.ents)
+            # print('\n\n --- NER ---\n\n')
+            # print(f'\n\n {y.text} -> {y.label_}')
+            fw.write(f'\n\n sentence entities --> {sent.ents}')
             fw.write(f'\n\n {y.text} -> {y.label_}')
+            # print('\n\n ---------------------------')
 
     fw.write(f'\n\n filtered sentence --> {filtered_sentence}')
 

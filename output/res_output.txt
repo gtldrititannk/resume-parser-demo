@@ -1,0 +1,92 @@
+Adhiksha Thorat  Student of Computer Engineering  Address: Mumbai, India  Phone: 8850492990  Email: asthorat@mitaoe.ac.in  LinkedIn: linkedin.com/in/adhiksha-thorat  Github: github.com/ADHIKSHA  Enthusiastic and hard-working individual with hands-on experience in software development and various frameworks.  Ever ending drive to learn and grow as an individual and as a professional. Talented in grasping new technologies .  Familiar with various development languages like Django (Python) and PHP and deployment platforms like GCP and AWS.  Optimized structures and processes to accomplish customer targets.  Education  Bachelor of Technology: Computer Engineering                                                  2017 – 2021  MIT Academy of Engineering, Pune  Internships  Software Developer Intern  Just Get IT, Mumbai   2020-06 – 2020-08  •  Worked on E-Commerce Website and mainly focused on creating a modular and distributed system. Developed  a Resume Parser using Machine Learning and Hard-Coding it to achieve nearly 75% accuracy.  •  Recognized the need for an intuitive Product Upload form and hence developed it using JavaScript, AJAX and  backend in Django/Python. Solved all the errors and rectified it according to client’s needs.  •  Designed and Deployed Databases keeping in mind all the best practices and abiding all normal forms and  Deployed it on AWS Compute Engine working in Linux Operating System.  Full Stack Developer Intern  Analytics Domain, Pune  2019-05 – 2019-08  •  Worked on Online Essay Grading Website using Machine Learning with Django framework. Focused on  creating a prediction model using NLP and Neutral Networks.  •  Connected the Python backend to PHP framework using REST APIs. Deployed the Python backend to  GCP Compute Engine and created database on Cloud SQL.  •  Coordinated with the client’s developers to evaluate and improve software and hardware interfaces.  Skills  Software Development, CPP, Python, Java, R, JS, HTML, CSS, PHP, SQL, Pig Latin, Data Science, Hadoop,  Machine Learning, Talend, Tableau, Version Control Tools, Linux, NodeJS, ReactJS, Django, Java Web,  WebRTC, Socket Programming, AWS, Google Cloud, Agile Development, SDLC, DBMS, OS, Networks.  Projects  -  Video Conferencing Application with Gaming using WebRTC  -  Data De-duplication in BTRFS in Linux Kernel   -  Clustering, Classification and Regression Case study in R programming  -  Case Study of HealthCare using Hadoop (Pig, Hive)                                            
+
+ ---- NLTK ---
+
+ --- sentences ----
+
+ ['Adhiksha Thorat  Student of Computer Engineering  Address: Mumbai, India  Phone: 8850492990  Email: asthorat@mitaoe.ac.in  LinkedIn: linkedin.com/in/adhiksha-thorat  Github: github.com/ADHIKSHA  Enthusiastic and hard-working individual with hands-on experience in software development and various frameworks.', 'Ever ending drive to learn and grow as an individual and as a professional.', 'Talented in grasping new technologies .', 'Familiar with various development languages like Django (Python) and PHP and deployment platforms like GCP and AWS.', 'Optimized structures and processes to accomplish customer targets.', 'Education  Bachelor of Technology: Computer Engineering                                                  2017 – 2021  MIT Academy of Engineering, Pune  Internships  Software Developer Intern  Just Get IT, Mumbai   2020-06 – 2020-08  •  Worked on E-Commerce Website and mainly focused on creating a modular and distributed system.', 'Developed  a Resume Parser using Machine Learning and Hard-Coding it to achieve nearly 75% accuracy.', '•  Recognized the need for an intuitive Product Upload form and hence developed it using JavaScript, AJAX and  backend in Django/Python.', 'Solved all the errors and rectified it according to client’s needs.', '•  Designed and Deployed Databases keeping in mind all the best practices and abiding all normal forms and  Deployed it on AWS Compute Engine working in Linux Operating System.', 'Full Stack Developer Intern  Analytics Domain, Pune  2019-05 – 2019-08  •  Worked on Online Essay Grading Website using Machine Learning with Django framework.', 'Focused on  creating a prediction model using NLP and Neutral Networks.', '•  Connected the Python backend to PHP framework using REST APIs.', 'Deployed the Python backend to  GCP Compute Engine and created database on Cloud SQL.', '•  Coordinated with the client’s developers to evaluate and improve software and hardware interfaces.', 'Skills  Software Development, CPP, Python, Java, R, JS, HTML, CSS, PHP, SQL, Pig Latin, Data Science, Hadoop,  Machine Learning, Talend, Tableau, Version Control Tools, Linux, NodeJS, ReactJS, Django, Java Web,  WebRTC, Socket Programming, AWS, Google Cloud, Agile Development, SDLC, DBMS, OS, Networks.', 'Projects  -  Video Conferencing Application with Gaming using WebRTC  -  Data De-duplication in BTRFS in Linux Kernel   -  Clustering, Classification and Regression Case study in R programming  -  Case Study of HealthCare using Hadoop (Pig, Hive)']
+
+ total sentences --> 17
+
+ --- Sentence Display --- 
+
+
+
+ sent --> Adhiksha Thorat  Student of Computer Engineering  Address: Mumbai, India  Phone: 8850492990  Email: asthorat@mitaoe.ac.in  LinkedIn: linkedin.com/in/adhiksha-thorat  Github: github.com/ADHIKSHA  Enthusiastic and hard-working individual with hands-on experience in software development and various frameworks.
+
+ sent --> Ever ending drive to learn and grow as an individual and as a professional.
+
+ sent --> Talented in grasping new technologies .
+
+ sent --> Familiar with various development languages like Django (Python) and PHP and deployment platforms like GCP and AWS.
+
+ sent --> Optimized structures and processes to accomplish customer targets.
+
+ sent --> Education  Bachelor of Technology: Computer Engineering                                                  2017 – 2021  MIT Academy of Engineering, Pune  Internships  Software Developer Intern  Just Get IT, Mumbai   2020-06 – 2020-08  •  Worked on E-Commerce Website and mainly focused on creating a modular and distributed system.
+
+ sent --> Developed  a Resume Parser using Machine Learning and Hard-Coding it to achieve nearly 75% accuracy.
+
+ sent --> •  Recognized the need for an intuitive Product Upload form and hence developed it using JavaScript, AJAX and  backend in Django/Python.
+
+ sent --> Solved all the errors and rectified it according to client’s needs.
+
+ sent --> •  Designed and Deployed Databases keeping in mind all the best practices and abiding all normal forms and  Deployed it on AWS Compute Engine working in Linux Operating System.
+
+ sent --> Full Stack Developer Intern  Analytics Domain, Pune  2019-05 – 2019-08  •  Worked on Online Essay Grading Website using Machine Learning with Django framework.
+
+ sent --> Focused on  creating a prediction model using NLP and Neutral Networks.
+
+ sent --> •  Connected the Python backend to PHP framework using REST APIs.
+
+ sent --> Deployed the Python backend to  GCP Compute Engine and created database on Cloud SQL.
+
+ sent --> •  Coordinated with the client’s developers to evaluate and improve software and hardware interfaces.
+
+ sent --> Skills  Software Development, CPP, Python, Java, R, JS, HTML, CSS, PHP, SQL, Pig Latin, Data Science, Hadoop,  Machine Learning, Talend, Tableau, Version Control Tools, Linux, NodeJS, ReactJS, Django, Java Web,  WebRTC, Socket Programming, AWS, Google Cloud, Agile Development, SDLC, DBMS, OS, Networks.
+
+ sent --> Projects  -  Video Conferencing Application with Gaming using WebRTC  -  Data De-duplication in BTRFS in Linux Kernel   -  Clustering, Classification and Regression Case study in R programming  -  Case Study of HealthCare using Hadoop (Pig, Hive)
+
+ ---- SPACY ---
+
+ --- doc --- 
+ Adhiksha Thorat  Student of Computer Engineering  Address: Mumbai, India  Phone: 8850492990  Email: asthorat@mitaoe.ac.in  LinkedIn: linkedin.com/in/adhiksha-thorat  Github: github.com/ADHIKSHA  Enthusiastic and hard-working individual with hands-on experience in software development and various frameworks.  Ever ending drive to learn and grow as an individual and as a professional. Talented in grasping new technologies .  Familiar with various development languages like Django (Python) and PHP and deployment platforms like GCP and AWS.  Optimized structures and processes to accomplish customer targets.  Education  Bachelor of Technology: Computer Engineering                                                  2017 – 2021  MIT Academy of Engineering, Pune  Internships  Software Developer Intern  Just Get IT, Mumbai   2020-06 – 2020-08  •  Worked on E-Commerce Website and mainly focused on creating a modular and distributed system. Developed  a Resume Parser using Machine Learning and Hard-Coding it to achieve nearly 75% accuracy.  •  Recognized the need for an intuitive Product Upload form and hence developed it using JavaScript, AJAX and  backend in Django/Python. Solved all the errors and rectified it according to client’s needs.  •  Designed and Deployed Databases keeping in mind all the best practices and abiding all normal forms and  Deployed it on AWS Compute Engine working in Linux Operating System.  Full Stack Developer Intern  Analytics Domain, Pune  2019-05 – 2019-08  •  Worked on Online Essay Grading Website using Machine Learning with Django framework. Focused on  creating a prediction model using NLP and Neutral Networks.  •  Connected the Python backend to PHP framework using REST APIs. Deployed the Python backend to  GCP Compute Engine and created database on Cloud SQL.  •  Coordinated with the client’s developers to evaluate and improve software and hardware interfaces.  Skills  Software Development, CPP, Python, Java, R, JS, HTML, CSS, PHP, SQL, Pig Latin, Data Science, Hadoop,  Machine Learning, Talend, Tableau, Version Control Tools, Linux, NodeJS, ReactJS, Django, Java Web,  WebRTC, Socket Programming, AWS, Google Cloud, Agile Development, SDLC, DBMS, OS, Networks.  Projects  -  Video Conferencing Application with Gaming using WebRTC  -  Data De-duplication in BTRFS in Linux Kernel   -  Clustering, Classification and Regression Case study in R programming  -  Case Study of HealthCare using Hadoop (Pig, Hive)                                            
+
+ ------ Spacy Sentences ------ 
+
+ 
+
+ sent --> Adhiksha Thorat  Student of Computer Engineering  Address: Mumbai, India  Phone: 8850492990  Email: asthorat@mitaoe.ac.in  LinkedIn: linkedin.com/in/adhiksha-thorat  Github: github.com/ADHIKSHA  Enthusiastic and hard-working individual with hands-on experience in software development and various frameworks.  
+
+ sent --> Ever ending drive to learn and grow as an individual and as a professional.
+
+ sent --> Talented in grasping new technologies .  
+
+ sent --> Familiar with various development languages like Django (Python) and PHP and deployment platforms like GCP and AWS.  
+
+ sent --> Optimized structures and processes to accomplish customer targets.  
+
+ sent --> Education  Bachelor of Technology: Computer Engineering                                                  2017 – 2021  MIT Academy of Engineering, Pune  Internships  Software Developer Intern  
+
+ sent --> Just Get IT, Mumbai   2020-06 – 2020-08  •  Worked on E-Commerce Website and mainly focused on creating a modular and distributed system.
+
+ sent --> Developed  a Resume Parser using Machine Learning and Hard-Coding it to achieve nearly 75% accuracy.  
+
+ sent --> •  Recognized the need for an intuitive Product Upload form and hence developed it using JavaScript, AJAX and  backend in Django/Python.
+
+ sent --> Solved all the errors and rectified it according to client’s needs.  
+
+ sent --> •  Designed and Deployed Databases keeping in mind all the best practices and abiding all normal forms and  Deployed it on AWS Compute Engine working in Linux Operating System.  
+
+ sent --> Full Stack Developer Intern  Analytics Domain, Pune  2019-05 – 2019-08  •  Worked on Online Essay Grading Website using Machine Learning with Django framework.
+
+ sent --> Focused on  creating a prediction model using NLP and Neutral Networks.  
+
+ sent --> •  Connected the Python backend to PHP framework using REST APIs.
+
+ sent --> Deployed the Python backend to  GCP Compute Engine and created database on Cloud SQL.  
+
+ sent --> •  Coordinated with the client’s developers to evaluate and improve software and hardware interfaces.  
+
+ sent --> Skills  Software Development, CPP, Python, Java, R, JS, HTML, CSS, PHP, SQL, Pig Latin, Data Science, Hadoop,  Machine Learning, Talend, Tableau, Version Control Tools, Linux, NodeJS, ReactJS, Django, Java Web,  WebRTC, Socket Programming, AWS, Google Cloud, Agile Development, SDLC, DBMS, OS, Networks.  
+
+ sent --> Projects  -  Video Conferencing Application with Gaming using WebRTC  -  Data De-duplication in BTRFS in Linux Kernel   -  Clustering, Classification and Regression Case study in R programming  -  Case Study of HealthCare using Hadoop (Pig, Hive)                                            
