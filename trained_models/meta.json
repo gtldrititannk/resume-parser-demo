@@ -18,10 +18,18 @@
   },
   "labels":{
     "ner":[
+      "COLLEGE",
+      "DEV_METHODOLOGY",
+      "DOMAIN",
+      "EDUCATION",
+      "JOB_ROLE",
       "LOCATION",
-      "PERSON_NAME",
+      "MONTH",
+      "OPERATING_SYSTEM",
+      "ORGANIZATION",
       "TECH_SKILLS",
-      "['ORGANIZATION', 'PERSON_NAME', 'TECH_SKILLS', 'JOB_ROLE', 'COLLEGE', 'EDUCATION', 'LOCATION', 'DOMAIN', 'OPERATING_SYSTEM', 'DEV_METHODOLOGY']"
+      "TIME",
+      "YEAR"
     ]
   },
   "pipeline":[

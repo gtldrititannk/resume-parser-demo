@@ -947,224 +947,650 @@ ram kumar  g/14, sunset heights  53 juhu tara road  mumbai -40049  maharashtra  
 
  sent --> ram kumar  g/14, sunset heights  53 juhu tara road  mumbai -40049  maharashtra  shri.babuji@shriresume.com  shri.babuji@shriresume.com  linkedin.com/in/shribabuji  about me  marketing and sales professional  lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
- sentence entities --> [mumbai, maharashtra]
-
- mumbai -> LOCATION
-
- sentence entities --> [mumbai, maharashtra]
+ sentence entities --> [maharashtra, shri.babuji@shriresume.com  shri.babuji@shriresume.com]
 
  maharashtra -> LOCATION
+
+ shri.babuji@shriresume.com  shri.babuji@shriresume.com -> TECH_SKILLS
+
+ NER Counts --> Counter({'LOCATION': 1, 'TECH_SKILLS': 1})
+
+========================================
 
  sent --> integer nec odio.
 
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
  sent --> praesent libero.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
 
  sent --> sed cursus ante dapi-bus  diam.
 
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
  sent --> sed nisi.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
 
  sent --> nulla quis sem at nibh elementum imperdiet.
 
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
  sent --> duis sagittis ipsum.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
 
  sent --> praesent mauris.
 
- sentence entities --> [mauris]
+ sentence entities --> []
 
- mauris -> LOCATION
+ NER Counts --> Counter()
+
+========================================
 
  sent --> fusce nec tellus  sed augue semper porta.
 
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
  sent --> mauris massa.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
 
  sent --> vestibulum lacinia arcu eget nulla.
 
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
  sent --> class aptent taciti sociosqu ad litora  torquent per conubia nostra, per inceptos himenaeos.
 
- sent -->  education  masters, business administration  symbiosis institute of management studies  aicte & ugc board  pune, maharashtra  bachelor, technology  deccan college of engineering & technology  osmania university board  hyderabad, telangana  10+2  dps bokaro  cbse board  new delhi, delhi  graduated, july 2010  marks 59%  division 2  graduated, july 2008  marks 64%  division 1  graduated, july 2004  marks 81%  division 1  professional qualifications and affiliations  ,  ,  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+ sentence entities --> [per inceptos himenaeos]
 
- sentence entities --> [management, maharashtra, 2]
+ per inceptos himenaeos -> TECH_SKILLS
 
- management -> LOCATION
+ NER Counts --> Counter({'TECH_SKILLS': 1})
 
- sentence entities --> [management, maharashtra, 2]
+========================================
 
- maharashtra -> LOCATION
+ sent --> education  masters, business administration  symbiosis institute of management studies  aicte & ugc board  pune, maharashtra  bachelor, technology  deccan college of engineering & technology  osmania university board  hyderabad, telangana  10+2  dps bokaro  cbse board  new delhi, delhi  graduated, july 2010  marks 59%  division 2  graduated, july 2008  marks 64%  division 1  graduated, july 2004  marks 81%  division 1  professional qualifications and affiliations  ,  ,  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
 
- sentence entities --> [management, maharashtra, 2]
+ sentence entities --> [masters, business administration  symbiosis institute, ugc, maharashtra, bachelor, technology  deccan college of engineering, technology  , 2, july, 2010, 2  , july, 2008, 1  , july, 2004, 1  ]
 
- 2 -> TECH_SKILLS
+ masters, business administration  symbiosis institute -> EDUCATION
 
- sent -->  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
-
- sent -->  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
-
- sent -->  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
-
- sent -->  career highlights  lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
- sent --> aenean commodo ligula eget dolor.
-
- sent --> aenean massa.
-
- sent --> cum  sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
- sentence entities --> [mus]
-
- mus -> LOCATION
-
- sent --> donec quam felis, ultricies lorem  ipsum dolor sit amet, consectetuer adipiscing elit.
-
- sent --> aenean commodo ligula eget dolor.
-
- sent --> aenean massa.
-
- sent --> cum sociis  natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
- sentence entities --> [mus]
-
- mus -> LOCATION
-
- sent -->  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
-
- sent -->  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
-
- sent -->                                                                                ,,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
-
- sent -->  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
-
- sent -->  ,  nulla quis sem  ,  lorem ipsum  ,  integer nec odio  skills  ,  ,  lorem ipsum  ipsum dolor  work experience  april 2014 – current  sales manager  solvent solutions pvt ltd  kolkata, west bangal  lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
- sent --> aenean commodo ligula eget dolor.
-
- sent --> aenean massa.
-
- sent --> cum  sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
- sentence entities --> [mus]
-
- mus -> LOCATION
-
- sent --> donec quam felis, ultricies lorem  ipsum dolor sit amet, consectetuer adipiscing elit.
-
- sent --> aenean commodo ligula eget dolor.
-
- sent --> aenean massa.
-
- sent --> cum sociis  natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
- sentence entities --> [mus]
-
- mus -> LOCATION
-
- sent -->  ,  ,  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
-
- sent -->  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
-
- sent -->  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
-
- sent -->  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
-
- sent -->  october 2011 – march 2014  team leader  serena global pvt ltd  gurgaon, delhi-ncr  lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
- sentence entities --> [march]
-
- march -> PERSON_NAME
-
- sent --> aenean commodo ligula eget dolor.
-
- sent --> aenean massa.
-
- sent --> cum  sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
- sentence entities --> [mus]
-
- mus -> LOCATION
-
- sent --> donec quam felis, ultricies lorem  ipsum dolor sit amet, consectetuer adipiscing elit.
-
- sent --> aenean commodo ligula eget dolor.
-
- sent --> aenean massa.
-
- sent --> cum sociis  natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
- sentence entities --> [mus]
-
- mus -> LOCATION
-
- sent -->  ,  ,  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
-
- sent -->  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
-
- sent -->  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
-
- sent -->  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
-
- sent -->  august 2009 – october 2011  sales assistant  tamcoj technologies  pimpri-pune, maharashtra  lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
- sentence entities --> [2011, maharashtra]
-
- 2011 -> LOCATION
-
- sentence entities --> [2011, maharashtra]
+ ugc -> TECH_SKILLS
 
  maharashtra -> LOCATION
 
+ bachelor, technology  deccan college of engineering -> EDUCATION
+
+ technology   -> TECH_SKILLS
+
+ 2 -> YEAR
+
+ july -> LOCATION
+
+ 2010 -> YEAR
+
+ 2   -> TIME
+
+ july -> LOCATION
+
+ 2008 -> YEAR
+
+ 1   -> TIME
+
+ july -> LOCATION
+
+ 2004 -> YEAR
+
+ 1   -> TIME
+
+ NER Counts --> Counter({'LOCATION': 4, 'YEAR': 4, 'TIME': 3, 'EDUCATION': 2, 'TECH_SKILLS': 2})
+
+========================================
+
+ sent --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> career highlights  lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
  sent --> aenean commodo ligula eget dolor.
 
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
  sent --> aenean massa.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
 
  sent --> cum  sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
- sentence entities --> [mus]
+ sentence entities --> []
 
- mus -> LOCATION
+ NER Counts --> Counter()
+
+========================================
 
  sent --> donec quam felis, ultricies lorem  ipsum dolor sit amet, consectetuer adipiscing elit.
 
+ sentence entities --> [ultricies lorem  ]
+
+ ultricies lorem   -> TECH_SKILLS
+
+ NER Counts --> Counter({'TECH_SKILLS': 1})
+
+========================================
+
  sent --> aenean commodo ligula eget dolor.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
 
  sent --> aenean massa.
 
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
  sent --> cum sociis  natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
- sentence entities --> [mus]
+ sentence entities --> []
 
- mus -> LOCATION
+ NER Counts --> Counter()
 
- sent -->  ,  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+========================================
 
- sent -->  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+ sent --> ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
 
- sent -->  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+ sentence entities --> []
 
- sent -->                ,,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+ NER Counts --> Counter()
 
- sent -->  computer proficiency  ,  word 2010    ,  excel 2010  ,  power point 2010  languages  ,  hindi  ,  english  personal interests  ,  ,  ,  lorem ipsum dolor sit amet  lorem ipsum dolor  lorem ipsum dolor sit  personal details  ,  ,  lorem ipsum dolor sit  lorem ipsum  father’s name:  mr.
+========================================
+
+ sent --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> ,,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> ,  nulla quis sem  ,  lorem ipsum  ,  integer nec odio  skills  ,  ,  lorem ipsum  ipsum dolor  work experience  april 2014 – current  sales manager  solvent solutions pvt ltd  kolkata, west bangal  lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+ sentence entities --> [kolkata]
+
+ kolkata -> TECH_SKILLS
+
+ NER Counts --> Counter({'TECH_SKILLS': 1})
+
+========================================
+
+ sent --> aenean commodo ligula eget dolor.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> aenean massa.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> cum  sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> donec quam felis, ultricies lorem  ipsum dolor sit amet, consectetuer adipiscing elit.
+
+ sentence entities --> [ultricies lorem  ]
+
+ ultricies lorem   -> TECH_SKILLS
+
+ NER Counts --> Counter({'TECH_SKILLS': 1})
+
+========================================
+
+ sent --> aenean commodo ligula eget dolor.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> aenean massa.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> cum sociis  natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> ,  ,  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> october 2011 – march 2014  team leader  serena global pvt ltd  gurgaon, delhi-ncr  lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> aenean commodo ligula eget dolor.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> aenean massa.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> cum  sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> donec quam felis, ultricies lorem  ipsum dolor sit amet, consectetuer adipiscing elit.
+
+ sentence entities --> [ultricies lorem  ]
+
+ ultricies lorem   -> TECH_SKILLS
+
+ NER Counts --> Counter({'TECH_SKILLS': 1})
+
+========================================
+
+ sent --> aenean commodo ligula eget dolor.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> aenean massa.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> cum sociis  natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> ,  ,  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> august 2009 – october 2011  sales assistant  tamcoj technologies  pimpri-pune, maharashtra  lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+ sentence entities --> [maharashtra]
+
+ maharashtra -> LOCATION
+
+ NER Counts --> Counter({'LOCATION': 1})
+
+========================================
+
+ sent --> aenean commodo ligula eget dolor.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> aenean massa.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> cum  sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> donec quam felis, ultricies lorem  ipsum dolor sit amet, consectetuer adipiscing elit.
+
+ sentence entities --> [ultricies lorem  ]
+
+ ultricies lorem   -> TECH_SKILLS
+
+ NER Counts --> Counter({'TECH_SKILLS': 1})
+
+========================================
+
+ sent --> aenean commodo ligula eget dolor.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> aenean massa.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> cum sociis  natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> ,  ,  ,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> ,,  lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> computer proficiency  ,  word 2010    ,  excel 2010  ,  power point 2010  languages  ,  hindi  ,  english  personal interests  ,  ,  ,  lorem ipsum dolor sit amet  lorem ipsum dolor  lorem ipsum dolor sit  personal details  ,  ,  lorem ipsum dolor sit  lorem ipsum  father’s name:  mr.
+
+ sentence entities --> [2010, hindi  , mr.]
+
+ 2010 -> YEAR
+
+ hindi   -> TECH_SKILLS
+
+ mr. -> TECH_SKILLS
+
+ NER Counts --> Counter({'TECH_SKILLS': 2, 'YEAR': 1})
+
+========================================
 
  sent --> abhijeet kumar    birthday:  gender:  october 28, 1982  male  marital status:  single  indian  nationality:  declaration  i, ram kumar, hereby declare that the information contained herein is true and correct to the best of my knowledge  and belief.
 
- sentence entities --> [male, declaration, declare]
+ sentence entities --> [28, hereby declare]
 
- male -> LOCATION
+ 28 -> TECH_SKILLS
 
- sentence entities --> [male, declaration, declare]
+ hereby declare -> TECH_SKILLS
 
- declaration -> TECH_SKILLS
+ NER Counts --> Counter({'TECH_SKILLS': 2})
 
- sentence entities --> [male, declaration, declare]
+========================================
 
- declare -> TECH_SKILLS
+ sent --> ____________________________  ram kumar  mumbai, maharashtra  march 1, 2015
 
- sent -->  ____________________________  ram kumar  mumbai, maharashtra  march 1, 2015
+ sentence entities --> [_, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _, __  ram kumar, maharashtra, 1,]
 
- sentence entities --> [mumbai, maharashtra]
+ _ -> LOCATION
 
- mumbai -> LOCATION
+ _ -> LOCATION
 
- sentence entities --> [mumbai, maharashtra]
+ _ -> LOCATION
+
+ _ -> LOCATION
+
+ _ -> LOCATION
+
+ _ -> LOCATION
+
+ _ -> LOCATION
+
+ _ -> LOCATION
+
+ _ -> LOCATION
+
+ _ -> LOCATION
+
+ _ -> LOCATION
+
+ _ -> LOCATION
+
+ _ -> LOCATION
+
+ _ -> LOCATION
+
+ _ -> LOCATION
+
+ _ -> LOCATION
+
+ _ -> LOCATION
+
+ _ -> LOCATION
+
+ _ -> LOCATION
+
+ _ -> LOCATION
+
+ _ -> LOCATION
+
+ _ -> LOCATION
+
+ _ -> LOCATION
+
+ _ -> LOCATION
+
+ __  ram kumar -> EDUCATION
 
  maharashtra -> LOCATION
+
+ 1, -> TIME
+
+ NER Counts --> Counter({'LOCATION': 25, 'EDUCATION': 1, 'TIME': 1})
+
+========================================
 
  filtered sentence --> [ram, kumar, g/14, sunset, heights, 53, juhu, tara, road, mumbai, -40049, maharashtra, shri.babuji@shriresume.com, shri.babuji@shriresume.com, linkedin.com/in/shribabuji, marketing, sales, professional, lorem, ipsum, dolor, sit, amet, consectetur, adipiscing, elit, integer, nec, odio, praesent, libero, sed, cursus, ante, dapi, bus, diam, sed, nisi, nulla, quis, sem, nibh, elementum, imperdiet, duis, sagittis, ipsum, praesent, mauris, fusce, nec, tellus, sed, augue, semper, porta, mauris, massa, vestibulum, lacinia, arcu, eget, nulla, class, aptent, taciti, sociosqu, ad, litora, torquent, conubia, nostra, inceptos, himenaeos, education, masters, business, administration, symbiosis, institute, management, studies, aicte, ugc, board, pune, maharashtra, bachelor, technology, deccan, college, engineering, technology, osmania, university, board, hyderabad, telangana, 10, 2, dps, bokaro, cbse, board, new, delhi, delhi, graduated, july, 2010, marks, 59, division, 2, graduated, july, 2008, marks, 64, division, 1, graduated, july, 2004, marks, 81, division, 1, professional, qualifications, affiliations, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, career, highlights, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, aenean, commodo, ligula, eget, dolor, aenean, massa, cum, sociis, natoque, penatibus, et, magnis, dis, parturient, montes, nascetur, ridiculus, mus, donec, quam, felis, ultricies, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, aenean, commodo, ligula, eget, dolor, aenean, massa, cum, sociis, natoque, penatibus, et, magnis, dis, parturient, montes, nascetur, ridiculus, mus, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, nulla, quis, sem, lorem, ipsum, integer, nec, odio, skills, lorem, ipsum, ipsum, dolor, work, experience, april, 2014, –, current, sales, manager, solvent, solutions, pvt, ltd, kolkata, west, bangal, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, aenean, commodo, ligula, eget, dolor, aenean, massa, cum, sociis, natoque, penatibus, et, magnis, dis, parturient, montes, nascetur, ridiculus, mus, donec, quam, felis, ultricies, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, aenean, commodo, ligula, eget, dolor, aenean, massa, cum, sociis, natoque, penatibus, et, magnis, dis, parturient, montes, nascetur, ridiculus, mus, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, october, 2011, –, march, 2014, team, leader, serena, global, pvt, ltd, gurgaon, delhi, ncr, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, aenean, commodo, ligula, eget, dolor, aenean, massa, cum, sociis, natoque, penatibus, et, magnis, dis, parturient, montes, nascetur, ridiculus, mus, donec, quam, felis, ultricies, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, aenean, commodo, ligula, eget, dolor, aenean, massa, cum, sociis, natoque, penatibus, et, magnis, dis, parturient, montes, nascetur, ridiculus, mus, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, august, 2009, –, october, 2011, sales, assistant, tamcoj, technologies, pimpri, pune, maharashtra, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, aenean, commodo, ligula, eget, dolor, aenean, massa, cum, sociis, natoque, penatibus, et, magnis, dis, parturient, montes, nascetur, ridiculus, mus, donec, quam, felis, ultricies, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, aenean, commodo, ligula, eget, dolor, aenean, massa, cum, sociis, natoque, penatibus, et, magnis, dis, parturient, montes, nascetur, ridiculus, mus, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, lorem, ipsum, dolor, sit, amet, consectetuer, adipiscing, elit, lorem, ipsum, dolor, sit, computer, proficiency, word, 2010, excel, 2010, power, point, 2010, languages, hindi, english, personal, interests, lorem, ipsum, dolor, sit, amet, lorem, ipsum, dolor, lorem, ipsum, dolor, sit, personal, details, lorem, ipsum, dolor, sit, lorem, ipsum, father, mr, abhijeet, kumar, birthday, gender, october, 28, 1982, male, marital, status, single, indian, nationality, declaration, ram, kumar, declare, information, contained, true, correct, best, knowledge, belief, ram, kumar, mumbai, maharashtra, march, 1, 2015]
