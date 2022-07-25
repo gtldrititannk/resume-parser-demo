@@ -9,7 +9,6 @@ import spacy
 from pdfminer.high_level import extract_text
 from nltk import sent_tokenize, word_tokenize
 from nltk.corpus import stopwords
-from spacy.lang.en.stop_words import STOP_WORDS
 
 
 def read_file(fpath):
@@ -23,6 +22,7 @@ def data_pre_process(data):
     data = data.replace('\n', ' ')
     data = data.replace('•', ',')
     data = data.replace('', ',')
+    data = data.replace('&amp;', 'and')
 
     return data
 
@@ -71,20 +71,29 @@ def ext_sent(lines, output_fname):
     filtered_sentence = []
 
     for sent in doc.sents:
-        fw.write(f'\n\n sent --> {sent}')
+        fw.write(f'\n\n sent --> {sent.text.strip()}')
         for sent_tk in sent:
             if sent_tk.text.strip() not in punctuations:
                 lexeme = nlp.vocab[sent_tk.text]
                 if lexeme.is_stop is False:
                     filtered_sentence.append(sent_tk)
+
+        # print('\n\n sentence --> ', sent.text.strip())
+        # print('\n\n ents --> ', sent.ents)
+        # print('\n\n --- NER ---\n\n')
+        ner_label =[]
+
+        fw.write(f'\n\n sentence entities --> {sent.ents}')
         for y in sent.ents:
-            # print('\n\n sentence --> ', sent.text.strip())
-            # print('\n\n ents --> ', sent.ents)
-            # print('\n\n --- NER ---\n\n')
             # print(f'\n\n {y.text} -> {y.label_}')
-            fw.write(f'\n\n sentence entities --> {sent.ents}')
             fw.write(f'\n\n {y.text} -> {y.label_}')
             # print('\n\n ---------------------------')
+            ner_label.append(y.label_)
+
+        res = Counter(ner_label)
+        # print('\n\n res --> ', res)
+        fw.write(f'\n\n NER Counts --> {res}')
+        fw.write(f'\n\n{"===="*10}')
 
     fw.write(f'\n\n filtered sentence --> {filtered_sentence}')
 

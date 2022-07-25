@@ -261,80 +261,250 @@ adhiksha thorat  student of computer engineering  address: mumbai, india  phone:
 
  sent --> adhiksha thorat  student of computer engineering  address: mumbai, india  phone: 8850492990  email: asthorat@mitaoe.ac.in  linkedin: linkedin.com/in/adhiksha-thorat  github: github.com/adhiksha  enthusiastic and hard-working individual with hands-on experience in software development and various frameworks.
 
- sentence entities --> [mumbai, phone]
+ sentence entities --> [computer engineering, mumbai, india, 8850492990  email, asthorat@mitaoe.ac.in, software development]
 
- mumbai -> LOCATION
+ computer engineering -> EDUCATION
 
- sentence entities --> [mumbai, phone]
+ mumbai -> TECH_SKILLS
 
- phone -> TECH_SKILLS
+ india -> LOCATION
 
- sent -->  ever ending drive to learn and grow as an individual and as a professional.
+ 8850492990  email -> EDUCATION
+
+ asthorat@mitaoe.ac.in -> TECH_SKILLS
+
+ software development -> TECH_SKILLS
+
+ NER Counts --> Counter({'TECH_SKILLS': 3, 'EDUCATION': 2, 'LOCATION': 1})
+
+========================================
+
+ sent --> ever ending drive to learn and grow as an individual and as a professional.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
 
  sent --> talented in grasping new technologies .
 
- sent -->  familiar with various development languages like django (python) and php and deployment platforms like gcp and aws.
+ sentence entities --> [technologies]
 
- sentence entities --> [django]
+ technologies -> ORGANIZATION
 
- django -> TECH_SKILLS
+ NER Counts --> Counter({'ORGANIZATION': 1})
 
- sent -->  optimized structures and processes to accomplish customer targets.
+========================================
 
- sent -->  education  bachelor of technology: computer engineering                                                  2017 – 2021  mit academy of engineering, pune  internships  software developer intern  just get it, mumbai   2020-06 – 2020-08  ,  worked on e-commerce website and mainly focused on creating a modular and distributed system.
+ sent --> familiar with various development languages like django (python) and php and deployment platforms like gcp and aws.
 
- sentence entities --> [pune, mumbai]
+ sentence entities --> [python, php, aws.]
 
- pune -> TECH_SKILLS
+ python -> TECH_SKILLS
 
- sentence entities --> [pune, mumbai]
+ php -> TECH_SKILLS
 
- mumbai -> LOCATION
+ aws. -> TECH_SKILLS
+
+ NER Counts --> Counter({'TECH_SKILLS': 3})
+
+========================================
+
+ sent --> optimized structures and processes to accomplish customer targets.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> education  bachelor of technology: computer engineering                                                  2017 – 2021  mit academy of engineering, pune  internships  software developer intern  just get it, mumbai   2020-06 – 2020-08  ,  worked on e-commerce website and mainly focused on creating a modular and distributed system.
+
+ sentence entities --> [bachelor of technology, computer engineering, 2017, –, 2021, pune, software developer intern, mumbai   , 2020, 2020]
+
+ bachelor of technology -> EDUCATION
+
+ computer engineering -> EDUCATION
+
+ 2017 -> YEAR
+
+ – -> ORGANIZATION
+
+ 2021 -> YEAR
+
+ pune -> LOCATION
+
+ software developer intern -> JOB_ROLE
+
+ mumbai    -> TECH_SKILLS
+
+ 2020 -> YEAR
+
+ 2020 -> YEAR
+
+ NER Counts --> Counter({'YEAR': 4, 'EDUCATION': 2, 'ORGANIZATION': 1, 'LOCATION': 1, 'JOB_ROLE': 1, 'TECH_SKILLS': 1})
+
+========================================
 
  sent --> developed  a resume parser using machine learning and hard-coding it to achieve nearly 75% accuracy.
 
- sentence entities --> [developed]
+ sentence entities --> [machine learning]
 
- developed -> TECH_SKILLS
+ machine learning -> TECH_SKILLS
 
- sent -->  ,  recognized the need for an intuitive product upload form and hence developed it using javascript, ajax and  backend in django/python.
+ NER Counts --> Counter({'TECH_SKILLS': 1})
 
- sentence entities --> [django, python]
+========================================
 
- django -> TECH_SKILLS
+ sent --> ,  recognized the need for an intuitive product upload form and hence developed it using javascript, ajax and  backend in django/python.
 
- sentence entities --> [django, python]
+ sentence entities --> [form, javascript, ajax]
 
- python -> ['ORGANIZATION', 'PERSON_NAME', 'TECH_SKILLS', 'JOB_ROLE', 'COLLEGE', 'EDUCATION', 'LOCATION', 'DOMAIN', 'OPERATING_SYSTEM', 'DEV_METHODOLOGY']
+ form -> TECH_SKILLS
+
+ javascript -> TECH_SKILLS
+
+ ajax -> TECH_SKILLS
+
+ NER Counts --> Counter({'TECH_SKILLS': 3})
+
+========================================
 
  sent --> solved all the errors and rectified it according to client’s needs.
 
- sent -->  ,  designed and deployed databases keeping in mind all the best practices and abiding all normal forms and  deployed it on aws compute engine working in linux operating system.
+ sentence entities --> []
 
- sentence entities --> [mind]
+ NER Counts --> Counter()
 
- mind -> TECH_SKILLS
+========================================
 
- sent -->  full stack developer intern  analytics domain, pune  2019-05 – 2019-08  ,  worked on online essay grading website using machine learning with django framework.
+ sent --> ,  designed and deployed databases keeping in mind all the best practices and abiding all normal forms and  deployed it on aws compute engine working in linux operating system.
 
- sent --> focused on  creating a prediction model using nlp and neutral networks.
+ sentence entities --> [linux operating system.]
 
- sent -->  ,  connected the python backend to php framework using rest apis.
+ linux operating system. -> EDUCATION
 
- sent --> deployed the python backend to  gcp compute engine and created database on cloud sql.
+ NER Counts --> Counter({'EDUCATION': 1})
 
- sentence entities --> [deployed]
+========================================
 
- deployed -> TECH_SKILLS
+ sent --> full stack developer intern  analytics domain, pune  2019-05 – 2019-08  ,  worked on online essay grading website using machine learning with django framework.
 
- sent -->  ,  coordinated with the client’s developers to evaluate and improve software and hardware interfaces.
+ sentence entities --> [full stack developer intern, pune, 2019, –, machine learning, django]
 
- sent -->  skills  software development, cpp, python, java, r, js, html, css, php, sql, pig latin, data science, hadoop,  machine learning, talend, tableau, version control tools, linux, nodejs, reactjs, django, java web,  webrtc, socket programming, aws, google cloud, agile development, sdlc, dbms, os, networks.
+ full stack developer intern -> JOB_ROLE
 
- sentence entities --> [django]
+ pune -> LOCATION
+
+ 2019 -> YEAR
+
+ – -> ORGANIZATION
+
+ machine learning -> TECH_SKILLS
 
  django -> TECH_SKILLS
 
- sent -->  projects  -  video conferencing application with gaming using webrtc  -  data de-duplication in btrfs in linux kernel   -  clustering, classification and regression case study in r programming  -  case study of healthcare using hadoop (pig, hive)
+ NER Counts --> Counter({'TECH_SKILLS': 2, 'JOB_ROLE': 1, 'LOCATION': 1, 'YEAR': 1, 'ORGANIZATION': 1})
+
+========================================
+
+ sent --> focused on  creating a prediction model using nlp and neutral networks.
+
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
+ sent --> ,  connected the python backend to php framework using rest apis.
+
+ sentence entities --> [python, php]
+
+ python -> TECH_SKILLS
+
+ php -> TECH_SKILLS
+
+ NER Counts --> Counter({'TECH_SKILLS': 2})
+
+========================================
+
+ sent --> deployed the python backend to  gcp compute engine and created database on cloud sql.
+
+ sentence entities --> [python, sql]
+
+ python -> TECH_SKILLS
+
+ sql -> TECH_SKILLS
+
+ NER Counts --> Counter({'TECH_SKILLS': 2})
+
+========================================
+
+ sent --> ,  coordinated with the client’s developers to evaluate and improve software and hardware interfaces.
+
+ sentence entities --> [software, hardware interfaces.]
+
+ software -> TECH_SKILLS
+
+ hardware interfaces. -> TECH_SKILLS
+
+ NER Counts --> Counter({'TECH_SKILLS': 2})
+
+========================================
+
+ sent --> skills  software development, cpp, python, java, r, js, html, css, php, sql, pig latin, data science, hadoop,  machine learning, talend, tableau, version control tools, linux, nodejs, reactjs, django, java web,  webrtc, socket programming, aws, google cloud, agile development, sdlc, dbms, os, networks.
+
+ sentence entities --> [python, java, r, html, css, php, sql, hadoop, machine learning, linux, nodejs, reactjs, django, java, agile, sdlc]
+
+ python -> TECH_SKILLS
+
+ java -> TECH_SKILLS
+
+ r -> TECH_SKILLS
+
+ html -> TECH_SKILLS
+
+ css -> TECH_SKILLS
+
+ php -> TECH_SKILLS
+
+ sql -> TECH_SKILLS
+
+ hadoop -> TECH_SKILLS
+
+ machine learning -> TECH_SKILLS
+
+ linux -> TECH_SKILLS
+
+ nodejs -> TECH_SKILLS
+
+ reactjs -> TECH_SKILLS
+
+ django -> TECH_SKILLS
+
+ java -> TECH_SKILLS
+
+ agile -> DEV_METHODOLOGY
+
+ sdlc -> TECH_SKILLS
+
+ NER Counts --> Counter({'TECH_SKILLS': 15, 'DEV_METHODOLOGY': 1})
+
+========================================
+
+ sent --> projects  -  video conferencing application with gaming using webrtc  -  data de-duplication in btrfs in linux kernel   -  clustering, classification and regression case study in r programming  -  case study of healthcare using hadoop (pig, hive)
+
+ sentence entities --> [linux, r, pig]
+
+ linux -> ORGANIZATION
+
+ r -> TECH_SKILLS
+
+ pig -> TECH_SKILLS
+
+ NER Counts --> Counter({'TECH_SKILLS': 2, 'ORGANIZATION': 1})
+
+========================================
 
  filtered sentence --> [adhiksha, thorat, student, computer, engineering, address, mumbai, india, phone, 8850492990, email, asthorat@mitaoe.ac.in, linkedin, linkedin.com/in/adhiksha-thorat, github, github.com/adhiksha, enthusiastic, hard, working, individual, hands, experience, software, development, frameworks, ending, drive, learn, grow, individual, professional, talented, grasping, new, technologies, familiar, development, languages, like, django, python, php, deployment, platforms, like, gcp, aws, optimized, structures, processes, accomplish, customer, targets, education, bachelor, technology, computer, engineering, 2017, –, 2021, mit, academy, engineering, pune, internships, software, developer, intern, mumbai, 2020, 06, –, 2020, 08, worked, e, commerce, website, mainly, focused, creating, modular, distributed, system, developed, resume, parser, machine, learning, hard, coding, achieve, nearly, 75, accuracy, recognized, need, intuitive, product, upload, form, developed, javascript, ajax, backend, django, python, solved, errors, rectified, according, client, needs, designed, deployed, databases, keeping, mind, best, practices, abiding, normal, forms, deployed, aws, compute, engine, working, linux, operating, system, stack, developer, intern, analytics, domain, pune, 2019, 05, –, 2019, 08, worked, online, essay, grading, website, machine, learning, django, framework, focused, creating, prediction, model, nlp, neutral, networks, connected, python, backend, php, framework, rest, apis, deployed, python, backend, gcp, compute, engine, created, database, cloud, sql, coordinated, client, developers, evaluate, improve, software, hardware, interfaces, skills, software, development, cpp, python, java, r, js, html, css, php, sql, pig, latin, data, science, hadoop, machine, learning, talend, tableau, version, control, tools, linux, nodejs, reactjs, django, java, web, webrtc, socket, programming, aws, google, cloud, agile, development, sdlc, dbms, os, networks, projects, video, conferencing, application, gaming, webrtc, data, de, duplication, btrfs, linux, kernel, clustering, classification, regression, case, study, r, programming, case, study, healthcare, hadoop, pig, hive]

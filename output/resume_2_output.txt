@@ -1,10 +1,10 @@
-alice clark  ai / machine learning  delhi, india email me on indeed  ,  20+ years of experience in data handling, design, and development  ,  data warehouse: data analysis, star/snow flake scema data modelling and design specific to  data warehousing and business intelligence  ,  database: experience in database designing, scalability, back-up and recovery, writing and  optimizing sql code and stored procedures, creating functions, views, triggers and indexes.  cloud platform: worked on microsoft azure cloud services like document db, sql azure,  stream analytics, event hub, power bi, web job, web app, power bi, azure data lake  analytics(u-sql)  willing to relocate anywhere  work experience  software engineer  microsoft – bangalore, karnataka  january 2000 to present  1. microsoft rewards live dashboards:  description: - microsoft rewards is loyalty program that rewards users for browsing and shopping  online. microsoft rewards members can earn points when searching with bing, browsing with  microsoft edge and making purchases at the xbox store, the windows store and the microsoft  store. plus, user can pick up bonus points for taking daily quizzes and tours on the microsoft  rewards website. rewards live dashboards gives a live picture of usage world-wide and by  markets like us, canada, australia, new user registration count, top/bottom performing rewards  offers, orders stats and weekly trends of user activities, orders and new user registrations. the  pbi tiles gets refreshed in different frequencies starting from 5 seconds to 30 minutes.  technology/tools used  education  indian institute of technology – mumbai  2001  skills  machine learning, natural language processing, and big data handling            ,additional information  professional skills  , excellent analytical, problem solving, communication, knowledge transfer and interpersonal  skills with ability to interact with individuals at all the levels  , quick learner and maintains cordial relationship with project manager and team members and  good performer both in team and independent job environments  , positive attitude towards superiors &amp; peers  , supervised junior developers throughout project lifecycle and provided technical assistance
+alice clark  ai / machine learning  delhi, india email me on indeed  ,  20+ years of experience in data handling, design, and development  ,  data warehouse: data analysis, star/snow flake scema data modelling and design specific to  data warehousing and business intelligence  ,  database: experience in database designing, scalability, back-up and recovery, writing and  optimizing sql code and stored procedures, creating functions, views, triggers and indexes.  cloud platform: worked on microsoft azure cloud services like document db, sql azure,  stream analytics, event hub, power bi, web job, web app, power bi, azure data lake  analytics(u-sql)  willing to relocate anywhere  work experience  software engineer  microsoft – bangalore, karnataka  january 2000 to present  1. microsoft rewards live dashboards:  description: - microsoft rewards is loyalty program that rewards users for browsing and shopping  online. microsoft rewards members can earn points when searching with bing, browsing with  microsoft edge and making purchases at the xbox store, the windows store and the microsoft  store. plus, user can pick up bonus points for taking daily quizzes and tours on the microsoft  rewards website. rewards live dashboards gives a live picture of usage world-wide and by  markets like us, canada, australia, new user registration count, top/bottom performing rewards  offers, orders stats and weekly trends of user activities, orders and new user registrations. the  pbi tiles gets refreshed in different frequencies starting from 5 seconds to 30 minutes.  technology/tools used  education  indian institute of technology – mumbai  2001  skills  machine learning, natural language processing, and big data handling            ,additional information  professional skills  , excellent analytical, problem solving, communication, knowledge transfer and interpersonal  skills with ability to interact with individuals at all the levels  , quick learner and maintains cordial relationship with project manager and team members and  good performer both in team and independent job environments  , positive attitude towards superiors and peers  , supervised junior developers throughout project lifecycle and provided technical assistance
 
  ***** NLTK ***** 
 
  --- sentences ----
 
- ['alice clark  ai / machine learning  delhi, india email me on indeed  ,  20+ years of experience in data handling, design, and development  ,  data warehouse: data analysis, star/snow flake scema data modelling and design specific to  data warehousing and business intelligence  ,  database: experience in database designing, scalability, back-up and recovery, writing and  optimizing sql code and stored procedures, creating functions, views, triggers and indexes.', 'cloud platform: worked on microsoft azure cloud services like document db, sql azure,  stream analytics, event hub, power bi, web job, web app, power bi, azure data lake  analytics(u-sql)  willing to relocate anywhere  work experience  software engineer  microsoft – bangalore, karnataka  january 2000 to present  1. microsoft rewards live dashboards:  description: - microsoft rewards is loyalty program that rewards users for browsing and shopping  online.', 'microsoft rewards members can earn points when searching with bing, browsing with  microsoft edge and making purchases at the xbox store, the windows store and the microsoft  store.', 'plus, user can pick up bonus points for taking daily quizzes and tours on the microsoft  rewards website.', 'rewards live dashboards gives a live picture of usage world-wide and by  markets like us, canada, australia, new user registration count, top/bottom performing rewards  offers, orders stats and weekly trends of user activities, orders and new user registrations.', 'the  pbi tiles gets refreshed in different frequencies starting from 5 seconds to 30 minutes.', 'technology/tools used  education  indian institute of technology – mumbai  2001  skills  machine learning, natural language processing, and big data handling            ,additional information  professional skills  , excellent analytical, problem solving, communication, knowledge transfer and interpersonal  skills with ability to interact with individuals at all the levels  , quick learner and maintains cordial relationship with project manager and team members and  good performer both in team and independent job environments  , positive attitude towards superiors &amp; peers  , supervised junior developers throughout project lifecycle and provided technical assistance']
+ ['alice clark  ai / machine learning  delhi, india email me on indeed  ,  20+ years of experience in data handling, design, and development  ,  data warehouse: data analysis, star/snow flake scema data modelling and design specific to  data warehousing and business intelligence  ,  database: experience in database designing, scalability, back-up and recovery, writing and  optimizing sql code and stored procedures, creating functions, views, triggers and indexes.', 'cloud platform: worked on microsoft azure cloud services like document db, sql azure,  stream analytics, event hub, power bi, web job, web app, power bi, azure data lake  analytics(u-sql)  willing to relocate anywhere  work experience  software engineer  microsoft – bangalore, karnataka  january 2000 to present  1. microsoft rewards live dashboards:  description: - microsoft rewards is loyalty program that rewards users for browsing and shopping  online.', 'microsoft rewards members can earn points when searching with bing, browsing with  microsoft edge and making purchases at the xbox store, the windows store and the microsoft  store.', 'plus, user can pick up bonus points for taking daily quizzes and tours on the microsoft  rewards website.', 'rewards live dashboards gives a live picture of usage world-wide and by  markets like us, canada, australia, new user registration count, top/bottom performing rewards  offers, orders stats and weekly trends of user activities, orders and new user registrations.', 'the  pbi tiles gets refreshed in different frequencies starting from 5 seconds to 30 minutes.', 'technology/tools used  education  indian institute of technology – mumbai  2001  skills  machine learning, natural language processing, and big data handling            ,additional information  professional skills  , excellent analytical, problem solving, communication, knowledge transfer and interpersonal  skills with ability to interact with individuals at all the levels  , quick learner and maintains cordial relationship with project manager and team members and  good performer both in team and independent job environments  , positive attitude towards superiors and peers  , supervised junior developers throughout project lifecycle and provided technical assistance']
 
  total sentences --> 7
 
@@ -96,24 +96,24 @@ alice clark  ai / machine learning  delhi, india email me on indeed  ,  20+ year
 
  ------------------------------------------------------------
 
- sent --> technology/tools used  education  indian institute of technology – mumbai  2001  skills  machine learning, natural language processing, and big data handling            ,additional information  professional skills  , excellent analytical, problem solving, communication, knowledge transfer and interpersonal  skills with ability to interact with individuals at all the levels  , quick learner and maintains cordial relationship with project manager and team members and  good performer both in team and independent job environments  , positive attitude towards superiors &amp; peers  , supervised junior developers throughout project lifecycle and provided technical assistance
+ sent --> technology/tools used  education  indian institute of technology – mumbai  2001  skills  machine learning, natural language processing, and big data handling            ,additional information  professional skills  , excellent analytical, problem solving, communication, knowledge transfer and interpersonal  skills with ability to interact with individuals at all the levels  , quick learner and maintains cordial relationship with project manager and team members and  good performer both in team and independent job environments  , positive attitude towards superiors and peers  , supervised junior developers throughout project lifecycle and provided technical assistance
 
- filtered sentence [stopwords] --> technology/tools used education indian institute technology – mumbai 2001 skills machine learning, natural language processing, big data handling ,additional information professional skills , excellent analytical, problem solving, communication, knowledge transfer interpersonal skills ability interact individuals levels , quick learner maintains cordial relationship project manager team members good performer team independent job environments , positive attitude towards superiors &amp; peers , supervised junior developers throughout project lifecycle provided technical assistance
+ filtered sentence [stopwords] --> technology/tools used education indian institute technology – mumbai 2001 skills machine learning, natural language processing, big data handling ,additional information professional skills , excellent analytical, problem solving, communication, knowledge transfer interpersonal skills ability interact individuals levels , quick learner maintains cordial relationship project manager team members good performer team independent job environments , positive attitude towards superiors peers , supervised junior developers throughout project lifecycle provided technical assistance
 
- Tokens --> ['technology/tools', 'used', 'education', 'indian', 'institute', 'technology', '–', 'mumbai', '2001', 'skills', 'machine', 'learning', ',', 'natural', 'language', 'processing', ',', 'big', 'data', 'handling', ',', 'additional', 'information', 'professional', 'skills', ',', 'excellent', 'analytical', ',', 'problem', 'solving', ',', 'communication', ',', 'knowledge', 'transfer', 'interpersonal', 'skills', 'ability', 'interact', 'individuals', 'levels', ',', 'quick', 'learner', 'maintains', 'cordial', 'relationship', 'project', 'manager', 'team', 'members', 'good', 'performer', 'team', 'independent', 'job', 'environments', ',', 'positive', 'attitude', 'towards', 'superiors', '&', 'amp', ';', 'peers', ',', 'supervised', 'junior', 'developers', 'throughout', 'project', 'lifecycle', 'provided', 'technical', 'assistance']
+ Tokens --> ['technology/tools', 'used', 'education', 'indian', 'institute', 'technology', '–', 'mumbai', '2001', 'skills', 'machine', 'learning', ',', 'natural', 'language', 'processing', ',', 'big', 'data', 'handling', ',', 'additional', 'information', 'professional', 'skills', ',', 'excellent', 'analytical', ',', 'problem', 'solving', ',', 'communication', ',', 'knowledge', 'transfer', 'interpersonal', 'skills', 'ability', 'interact', 'individuals', 'levels', ',', 'quick', 'learner', 'maintains', 'cordial', 'relationship', 'project', 'manager', 'team', 'members', 'good', 'performer', 'team', 'independent', 'job', 'environments', ',', 'positive', 'attitude', 'towards', 'superiors', 'peers', ',', 'supervised', 'junior', 'developers', 'throughout', 'project', 'lifecycle', 'provided', 'technical', 'assistance']
 
- Total Tokens --> 77
+ Total Tokens --> 74
 
- Filtered Tokens [New Stop Words] --> technology/tools used education indian institute technology – mumbai 2001 skills machine learning , natural language processing , big data handling , additional information professional skills , excellent analytical , problem solving , communication , knowledge transfer interpersonal skills ability interact individuals levels , quick learner maintains cordial relationship project manager team members good performer team independent job environments , positive attitude towards superiors & amp ; peers , supervised junior developers throughout project lifecycle provided technical assistance
+ Filtered Tokens [New Stop Words] --> technology/tools used education indian institute technology – mumbai 2001 skills machine learning , natural language processing , big data handling , additional information professional skills , excellent analytical , problem solving , communication , knowledge transfer interpersonal skills ability interact individuals levels , quick learner maintains cordial relationship project manager team members good performer team independent job environments , positive attitude towards superiors peers , supervised junior developers throughout project lifecycle provided technical assistance
 
- Filtered Tokens [punctuations] --> technology/tools used education indian institute technology – mumbai 2001 skills machine learning natural language processing big data handling additional information professional skills excellent analytical problem solving communication knowledge transfer interpersonal skills ability interact individuals levels quick learner maintains cordial relationship project manager team members good performer team independent job environments positive attitude towards superiors amp peers supervised junior developers throughout project lifecycle provided technical assistance
+ Filtered Tokens [punctuations] --> technology/tools used education indian institute technology – mumbai 2001 skills machine learning natural language processing big data handling additional information professional skills excellent analytical problem solving communication knowledge transfer interpersonal skills ability interact individuals levels quick learner maintains cordial relationship project manager team members good performer team independent job environments positive attitude towards superiors peers supervised junior developers throughout project lifecycle provided technical assistance
 
  ------------------------------------------------------------
 
  ***** SPACY ***** 
 
  --- doc --- 
- alice clark  ai / machine learning  delhi, india email me on indeed  ,  20+ years of experience in data handling, design, and development  ,  data warehouse: data analysis, star/snow flake scema data modelling and design specific to  data warehousing and business intelligence  ,  database: experience in database designing, scalability, back-up and recovery, writing and  optimizing sql code and stored procedures, creating functions, views, triggers and indexes.  cloud platform: worked on microsoft azure cloud services like document db, sql azure,  stream analytics, event hub, power bi, web job, web app, power bi, azure data lake  analytics(u-sql)  willing to relocate anywhere  work experience  software engineer  microsoft – bangalore, karnataka  january 2000 to present  1. microsoft rewards live dashboards:  description: - microsoft rewards is loyalty program that rewards users for browsing and shopping  online. microsoft rewards members can earn points when searching with bing, browsing with  microsoft edge and making purchases at the xbox store, the windows store and the microsoft  store. plus, user can pick up bonus points for taking daily quizzes and tours on the microsoft  rewards website. rewards live dashboards gives a live picture of usage world-wide and by  markets like us, canada, australia, new user registration count, top/bottom performing rewards  offers, orders stats and weekly trends of user activities, orders and new user registrations. the  pbi tiles gets refreshed in different frequencies starting from 5 seconds to 30 minutes.  technology/tools used  education  indian institute of technology – mumbai  2001  skills  machine learning, natural language processing, and big data handling            ,additional information  professional skills  , excellent analytical, problem solving, communication, knowledge transfer and interpersonal  skills with ability to interact with individuals at all the levels  , quick learner and maintains cordial relationship with project manager and team members and  good performer both in team and independent job environments  , positive attitude towards superiors &amp; peers  , supervised junior developers throughout project lifecycle and provided technical assistance
+ alice clark  ai / machine learning  delhi, india email me on indeed  ,  20+ years of experience in data handling, design, and development  ,  data warehouse: data analysis, star/snow flake scema data modelling and design specific to  data warehousing and business intelligence  ,  database: experience in database designing, scalability, back-up and recovery, writing and  optimizing sql code and stored procedures, creating functions, views, triggers and indexes.  cloud platform: worked on microsoft azure cloud services like document db, sql azure,  stream analytics, event hub, power bi, web job, web app, power bi, azure data lake  analytics(u-sql)  willing to relocate anywhere  work experience  software engineer  microsoft – bangalore, karnataka  january 2000 to present  1. microsoft rewards live dashboards:  description: - microsoft rewards is loyalty program that rewards users for browsing and shopping  online. microsoft rewards members can earn points when searching with bing, browsing with  microsoft edge and making purchases at the xbox store, the windows store and the microsoft  store. plus, user can pick up bonus points for taking daily quizzes and tours on the microsoft  rewards website. rewards live dashboards gives a live picture of usage world-wide and by  markets like us, canada, australia, new user registration count, top/bottom performing rewards  offers, orders stats and weekly trends of user activities, orders and new user registrations. the  pbi tiles gets refreshed in different frequencies starting from 5 seconds to 30 minutes.  technology/tools used  education  indian institute of technology – mumbai  2001  skills  machine learning, natural language processing, and big data handling            ,additional information  professional skills  , excellent analytical, problem solving, communication, knowledge transfer and interpersonal  skills with ability to interact with individuals at all the levels  , quick learner and maintains cordial relationship with project manager and team members and  good performer both in team and independent job environments  , positive attitude towards superiors and peers  , supervised junior developers throughout project lifecycle and provided technical assistance
 
  ------ Spacy Sentences ------ 
 
@@ -121,46 +121,106 @@ alice clark  ai / machine learning  delhi, india email me on indeed  ,  20+ year
 
  sent --> alice clark  ai / machine learning  delhi, india email me on indeed  ,  20+ years of experience in data handling, design, and development  ,  data warehouse: data analysis, star/snow flake scema data modelling and design specific to  data warehousing and business intelligence  ,  database: experience in database designing, scalability, back-up and recovery, writing and  optimizing sql code and stored procedures, creating functions, views, triggers and indexes.
 
- sentence entities --> [development]
+ sentence entities --> [alice clark  , machine learning  delhi, india, email me on indeed  , + years of experience, data handling, data, database designing, sql]
 
- development -> TECH_SKILLS
+ alice clark   -> ORGANIZATION
 
- sent -->  cloud platform: worked on microsoft azure cloud services like document db, sql azure,  stream analytics, event hub, power bi, web job, web app, power bi, azure data lake  analytics(u-sql)  willing to relocate anywhere  work experience  software engineer  microsoft – bangalore, karnataka  january 2000 to present  1.
+ machine learning  delhi -> TECH_SKILLS
 
- sentence entities --> [present]
+ india -> LOCATION
 
- present -> TECH_SKILLS
+ email me on indeed   -> EDUCATION
+
+ + years of experience -> EDUCATION
+
+ data handling -> EDUCATION
+
+ data -> TECH_SKILLS
+
+ database designing -> EDUCATION
+
+ sql -> TECH_SKILLS
+
+ NER Counts --> Counter({'EDUCATION': 4, 'TECH_SKILLS': 3, 'ORGANIZATION': 1, 'LOCATION': 1})
+
+========================================
+
+ sent --> cloud platform: worked on microsoft azure cloud services like document db, sql azure,  stream analytics, event hub, power bi, web job, web app, power bi, azure data lake  analytics(u-sql)  willing to relocate anywhere  work experience  software engineer  microsoft – bangalore, karnataka  january 2000 to present  1.
+
+ sentence entities --> [sql, azure, software engineer, karnataka, 1.]
+
+ sql -> TECH_SKILLS
+
+ azure -> TECH_SKILLS
+
+ software engineer -> JOB_ROLE
+
+ karnataka -> TECH_SKILLS
+
+ 1. -> TIME
+
+ NER Counts --> Counter({'TECH_SKILLS': 3, 'JOB_ROLE': 1, 'TIME': 1})
+
+========================================
 
  sent --> microsoft rewards live dashboards:  description: - microsoft rewards is loyalty program that rewards users for browsing and shopping  online.
 
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
  sent --> microsoft rewards members can earn points when searching with bing, browsing with  microsoft edge and making purchases at the xbox store, the windows store and the microsoft  store.
 
- sentence entities --> [microsoft]
+ sentence entities --> []
 
- microsoft -> LOCATION
+ NER Counts --> Counter()
+
+========================================
 
  sent --> plus, user can pick up bonus points for taking daily quizzes and tours on the microsoft  rewards website.
 
- sentence entities --> [microsoft]
+ sentence entities --> []
 
- microsoft -> LOCATION
+ NER Counts --> Counter()
+
+========================================
 
  sent --> rewards live dashboards gives a live picture of usage world-wide and by  markets like us, canada, australia, new user registration count, top/bottom performing rewards  offers, orders stats and weekly trends of user activities, orders and new user registrations.
 
+ sentence entities --> []
+
+ NER Counts --> Counter()
+
+========================================
+
  sent --> the  pbi tiles gets refreshed in different frequencies starting from 5 seconds to 30 minutes.
 
- sentence entities --> [minutes]
+ sentence entities --> []
 
- minutes -> LOCATION
+ NER Counts --> Counter()
 
- sent -->  technology/tools used  education  indian institute of technology – mumbai  2001  skills  machine learning, natural language processing, and big data handling            ,additional information  professional skills  , excellent analytical, problem solving, communication, knowledge transfer and interpersonal  skills with ability to interact with individuals at all the levels  , quick learner and maintains cordial relationship with project manager and team members and  good performer both in team and independent job environments  , positive attitude towards superiors &amp; peers  , supervised junior developers throughout project lifecycle and provided technical assistance
+========================================
 
- sentence entities --> [mumbai, 2001]
+ sent --> technology/tools used  education  indian institute of technology – mumbai  2001  skills  machine learning, natural language processing, and big data handling            ,additional information  professional skills  , excellent analytical, problem solving, communication, knowledge transfer and interpersonal  skills with ability to interact with individuals at all the levels  , quick learner and maintains cordial relationship with project manager and team members and  good performer both in team and independent job environments  , positive attitude towards superiors and peers  , supervised junior developers throughout project lifecycle and provided technical assistance
 
- mumbai -> LOCATION
+ sentence entities --> [2001, machine learning, natural language processing, additional information  professional skills, analytical, quick learner]
 
- sentence entities --> [mumbai, 2001]
+ 2001 -> YEAR
 
- 2001 -> PERSON_NAME
+ machine learning -> TECH_SKILLS
 
- filtered sentence --> [alice, clark, ai, machine, learning, delhi, india, email, 20, years, experience, data, handling, design, development, data, warehouse, data, analysis, star, snow, flake, scema, data, modelling, design, specific, data, warehousing, business, intelligence, database, experience, database, designing, scalability, recovery, writing, optimizing, sql, code, stored, procedures, creating, functions, views, triggers, indexes, cloud, platform, worked, microsoft, azure, cloud, services, like, document, db, sql, azure, stream, analytics, event, hub, power, bi, web, job, web, app, power, bi, azure, data, lake, analytics(u, sql, willing, relocate, work, experience, software, engineer, microsoft, –, bangalore, karnataka, january, 2000, present, 1, microsoft, rewards, live, dashboards, description, microsoft, rewards, loyalty, program, rewards, users, browsing, shopping, online, microsoft, rewards, members, earn, points, searching, bing, browsing, microsoft, edge, making, purchases, xbox, store, windows, store, microsoft, store, plus, user, pick, bonus, points, taking, daily, quizzes, tours, microsoft, rewards, website, rewards, live, dashboards, gives, live, picture, usage, world, wide, markets, like, canada, australia, new, user, registration, count, performing, rewards, offers, orders, stats, weekly, trends, user, activities, orders, new, user, registrations, pbi, tiles, gets, refreshed, different, frequencies, starting, 5, seconds, 30, minutes, technology, tools, education, indian, institute, technology, –, mumbai, 2001, skills, machine, learning, natural, language, processing, big, data, handling, additional, information, professional, skills, excellent, analytical, problem, solving, communication, knowledge, transfer, interpersonal, skills, ability, interact, individuals, levels, quick, learner, maintains, cordial, relationship, project, manager, team, members, good, performer, team, independent, job, environments, positive, attitude, superiors, amp, peers, supervised, junior, developers, project, lifecycle, provided, technical, assistance]
+ natural language processing -> TECH_SKILLS
+
+ additional information  professional skills -> TECH_SKILLS
+
+ analytical -> TECH_SKILLS
+
+ quick learner -> TECH_SKILLS
+
+ NER Counts --> Counter({'TECH_SKILLS': 5, 'YEAR': 1})
+
+========================================
+
+ filtered sentence --> [alice, clark, ai, machine, learning, delhi, india, email, 20, years, experience, data, handling, design, development, data, warehouse, data, analysis, star, snow, flake, scema, data, modelling, design, specific, data, warehousing, business, intelligence, database, experience, database, designing, scalability, recovery, writing, optimizing, sql, code, stored, procedures, creating, functions, views, triggers, indexes, cloud, platform, worked, microsoft, azure, cloud, services, like, document, db, sql, azure, stream, analytics, event, hub, power, bi, web, job, web, app, power, bi, azure, data, lake, analytics(u, sql, willing, relocate, work, experience, software, engineer, microsoft, –, bangalore, karnataka, january, 2000, present, 1, microsoft, rewards, live, dashboards, description, microsoft, rewards, loyalty, program, rewards, users, browsing, shopping, online, microsoft, rewards, members, earn, points, searching, bing, browsing, microsoft, edge, making, purchases, xbox, store, windows, store, microsoft, store, plus, user, pick, bonus, points, taking, daily, quizzes, tours, microsoft, rewards, website, rewards, live, dashboards, gives, live, picture, usage, world, wide, markets, like, canada, australia, new, user, registration, count, performing, rewards, offers, orders, stats, weekly, trends, user, activities, orders, new, user, registrations, pbi, tiles, gets, refreshed, different, frequencies, starting, 5, seconds, 30, minutes, technology, tools, education, indian, institute, technology, –, mumbai, 2001, skills, machine, learning, natural, language, processing, big, data, handling, additional, information, professional, skills, excellent, analytical, problem, solving, communication, knowledge, transfer, interpersonal, skills, ability, interact, individuals, levels, quick, learner, maintains, cordial, relationship, project, manager, team, members, good, performer, team, independent, job, environments, positive, attitude, superiors, peers, supervised, junior, developers, project, lifecycle, provided, technical, assistance]
